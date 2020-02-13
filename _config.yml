@@ -1,7 +1,7 @@
 title: Terry小屋
 author:
-    name: terryoy
-    email: "terry.ouyang@gmail.com"
+  name: terryoy
+  email: "terry.ouyang@gmail.com"
 
 description:
     
@@ -12,6 +12,6 @@ show_excerpts: true
 theme: minima
 
 #plugins:
-#    jekyll-remote-theme
+#  jekyll-remote-theme
 
 #remote_theme: benbalter/retlab
