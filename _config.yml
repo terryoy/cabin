@@ -1,5 +1,4 @@
 #theme: jekyll-theme-minimal
-gem "jekyll-remote-theme"
 
 plugins:
     jekyll-remote-theme
