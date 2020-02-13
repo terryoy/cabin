@@ -1,10 +1,11 @@
 title: Terry小屋
-author:
-  name: terryoy
-  email: "terry.ouyang@gmail.com"
+author: terryoy
+email: "terry.ouyang@gmail.com"
 
 description:
-    
+    这是我以前写博客的地方。从大学毕业到现在已经十多年，博客网站倒了好几个，从最初的msn space，尝试迁到wordpress和网易，再网易又倒了，就迁到新浪。
+    结果现在新浪博客虽然还活着，但体验也很差，还有各种的发文限制。我觉得兜兜转转这么多地方，还不如自己建一个网站，自己的文章自己管。中文圈里面写
+    博客的人已经越来越少了，有思想的文字也越来越少。在这里希望保留自己的“试验田”，继续我的笔录人生，继续保持对人生的思考。
 
 show_excerpts: true
 
