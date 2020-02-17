@@ -13,6 +13,6 @@ show_excerpts: true
 theme: minima
 
 plugins:
-  jekyll-remote-theme
+  - jekyll-remote-theme
 
 remote_theme: terryoy/minima 
