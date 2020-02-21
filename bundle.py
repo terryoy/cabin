@@ -1,6 +1,7 @@
 from collections import OrderedDict
 from datetime import datetime
 import xmltodict
+import html2text
 import json
 import os, io
 
@@ -14,6 +15,10 @@ def ensure_dir(path):
     if not os.path.exists(path):
         os.makedirs(path)
 
+def to_markdown(html):
+    convertor = html2text.HTML2Text()
+    return convertor.handle(html)
+
 class JekyllPage:
     postMapping = None
     orig_file = ""
@@ -23,13 +28,13 @@ class JekyllPage:
     body = ""
     create_date = None
 
+    def __init__(self, postMapping=OrderedDict()):
+        self.postMapping = postMapping
 
-
-    def __init__(self, path, postMapping=OrderedDict()):
+    def load_file(self, path):
         print('read file from: {}'.format(path))
         self.orig_file = os.path.basename(path)
         self.create_date = datetime.fromtimestamp(os.path.getctime(path))
-        self.postMapping = postMapping
         self.correct_stuffs()
 
         with open(path) as f:
@@ -39,6 +44,16 @@ class JekyllPage:
 
         filename = os.path.basename(path)
         self.frontMatters["ref_id"] = filename[:filename.find("-")]
+
+    def load_wordpress(self, wpitem):
+        self.frontMatters["layout"] = "post"
+        self.frontMatters["title"] = wpitem["title"]
+        self.frontMatters["author"] = "teryoy"
+        self.create_date = datetime.strptime(wpitem["wp:post_date"], "%Y-%m-%d %H:%M:%S")
+        self.frontMatters["date"] = self.create_date.strftime("%Y-%m-%d %H:%M")
+        if wpitem.get("category"):
+            self.frontMatters["categories"] = wpitem["category"]["#text"]
+
     
     def output(self, path):
         print("saving files to {}...".format(path))
@@ -111,12 +126,12 @@ class JekyllPage:
 
     def correct_stuffs(self):
         title = self.get_title()
-        if title in self.postMapping:
+        print('title: {} in postMappings: {}'.format(title, title in self.postMapping.keys()))
+        if title in self.postMapping.keys():
             # correct article time
             feed = self.postMapping[title]
             self.create_date = datetime.strptime(feed["wp:post_date"], "%Y-%m-%d %H:%M:%S")
             self.frontMatters["date"] = self.create_date.strftime("%Y-%m-%d %H:%M")
-            
 
 def create_post_mapping():
     postMapping = OrderedDict()
@@ -142,10 +157,22 @@ def main():
         for fname in files:
             if fname.rfind('.md') != -1:
                 source_file = os.path.join(root, fname)
-                page = JekyllPage(source_file, postMapping)
+                page = JekyllPage(postMapping)
+                page.load_file(source_file)
+                page.correct_stuffs()
+                title = page.get_title()
                 
                 output_file = os.path.join(JEKYLL_BUNDLE, page.get_file_name())
                 page.output(output_file)
+                
+                if title in postMapping.keys():
+                    postMapping.pop(title)
+
+    for title in postMapping.keys():
+        page = JekyllPage(postMapping)
+        page.load_wordpress(postMapping[title])
+        output_file = os.path.join(JEKYLL_BUNDLE, page.get_file_name())
+        page.output(output_file)
 
 
 if __name__ == "__main__":
