@@ -3,6 +3,7 @@
  title: Something Interesting
  date: 2018-09-15 03:54
  tags: 旧博客存档
+ ref_id: 1536954848818
 ---
 今天看书看到一段引用
 

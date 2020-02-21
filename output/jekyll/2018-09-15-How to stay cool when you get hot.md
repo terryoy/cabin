@@ -3,6 +3,7 @@
  title: How to stay cool when you get hot
  date: 2018-09-15 03:53
  tags: 旧博客存档
+ ref_id: 1536954820802
 ---
 这句话作为我qq的签名档有一段时间了，首先解释下由来：
 

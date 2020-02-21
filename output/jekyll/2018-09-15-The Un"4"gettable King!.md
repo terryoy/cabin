@@ -3,6 +3,7 @@
  title: The Un"4"gettable King!
  date: 2018-09-15 03:56
  tags: 旧博客存档
+ ref_id: 1536955004202
 ---
 "In the 5 years and 377 games that he played in the Kings uniform. He averaged
 23.5 points, 10.5 rebounds, nearly 5 assists. He lead this club to 2 back-to-

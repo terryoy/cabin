@@ -3,6 +3,7 @@
  title: Nonzero: The Logic of Human Destiny
  date: 2018-09-15 03:57
  tags: 旧博客存档
+ ref_id: 1536955077666
 ---
 This is one of the 75 books on the list of _[The Smartest Books We
 Know](http://money.cnn.com/magazines/fortune/fortune_archive/2005/03/21/8254826/index.htm)_

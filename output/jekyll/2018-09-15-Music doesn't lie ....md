@@ -3,6 +3,7 @@
  title: Music doesn't lie ...
  date: 2018-09-15 03:52
  tags: 旧博客存档
+ ref_id: 1536954739054
 ---
 "... If there is something to be changed in this world, than it can only
 happened through music. " - Jimi Hendrix

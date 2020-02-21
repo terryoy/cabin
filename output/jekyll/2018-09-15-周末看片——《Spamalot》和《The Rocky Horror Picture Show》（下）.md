@@ -3,6 +3,7 @@
  title: 周末看片——《Spamalot》和《The Rocky Horror Picture Show》（下）
  date: 2018-09-15 03:56
  tags: 旧博客存档
+ ref_id: 1536954998096
 ---
 《The Rocky Horror Picture Show 洛基恐怖秀》
 

@@ -3,6 +3,7 @@
  title: The Beauty of Youth
  date: 2018-09-15 03:56
  tags: 旧博客存档
+ ref_id: 1536954995820
 ---
 青春，每一个人都想留住，但是却没有人能留得住。
 

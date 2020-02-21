@@ -3,6 +3,7 @@
  title: <How to Be An Alien>
  date: 2018-09-15 03:54
  tags: 旧博客存档
+ ref_id: 1536954850302
 ---
      ![How to Be An Alien - terryoy - terryoy的博客](http://imglf3.nosdn0.126.net/img/d3RhVFdGTXZTU3FWYjUvU0NEZTFhcXZzb3NRM0RUS1pCaFd6QlBGbElla2U5Y1RPYzNoSFdRPT0.jpg)
 

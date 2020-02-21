@@ -3,6 +3,7 @@
  title: There is no stupid question
  date: 2018-09-15 03:52
  tags: 旧博客存档
+ ref_id: 1536954738380
 ---
 今天是上班的第一天, 主要是签合同, 听hr姐姐讲解员工的权利和义务之类的. 下午是经理Joe Tam跟我们吹水吹三个小时的MNC(Multi-
 National Corporations,跨国企业)生存之道...这家伙果然不是一般能吹!

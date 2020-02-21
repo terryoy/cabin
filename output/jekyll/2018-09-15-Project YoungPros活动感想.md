@@ -3,6 +3,7 @@
  title: Project YoungPros活动感想
  date: 2018-09-15 03:57
  tags: 旧博客存档
+ ref_id: 1536955077718
 ---
 （原文贴在这里：<http://www.douban.com/event/11906728/discussion/24002729/>）
 

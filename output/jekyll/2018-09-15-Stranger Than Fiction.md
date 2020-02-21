@@ -3,6 +3,7 @@
  title: Stranger Than Fiction
  date: 2018-09-15 03:56
  tags: 旧博客存档
+ ref_id: 1536954995766
 ---
 Tragedy? or Comedy?
 

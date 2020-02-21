@@ -3,6 +3,7 @@
  title: Bee Movie & Ratatouille
  date: 2018-09-15 03:56
  tags: 旧博客存档
+ ref_id: 1536954991080
 ---
 前段时间连续看了这两部动画片，一部票房冠军，一部好评如潮。Bee Movie是Jerry
 Seinfeld编剧兼配音的，梦工场出品；Ratatouille则是由Disney

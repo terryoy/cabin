@@ -3,6 +3,7 @@
  title: Slow is Fast
  date: 2018-09-15 03:57
  tags: 旧博客存档
+ ref_id: 1536955079487
 ---
 There is a famous quote in Design, "Less is more." It tells people that when
 things are designed in a simple way, you can enjoy more with them, and things

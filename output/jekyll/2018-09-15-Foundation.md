@@ -3,6 +3,7 @@
  title: Foundation
  date: 2018-09-15 03:57
  tags: 旧博客存档
+ ref_id: 1536955077769
 ---
 A few pieces of news this week.
 

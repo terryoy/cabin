@@ -3,6 +3,7 @@
  title: The arts and craft of problem solving
  date: 2018-09-15 03:52
  tags: 旧博客存档
+ ref_id: 1536954737861
 ---
 前几天在图书馆闲逛看见这本书－《The arts and craft of problem solving》by Paul
 Zeitz，又勾起了对数学学科的无限感想。。。

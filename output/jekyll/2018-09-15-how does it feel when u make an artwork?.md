@@ -3,6 +3,7 @@
  title: how does it feel when u make an artwork?
  date: 2018-09-15 03:51
  tags: 旧博客存档
+ ref_id: 1536954709548
 ---
 recently i'm considering what project should i accomplish(because i have to
 show it or talk about it when i have interview next term), but i don't know

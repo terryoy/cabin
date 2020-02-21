@@ -3,6 +3,7 @@
  title: 迷上Monty Python
  date: 2018-09-15 03:53
  tags: 旧博客存档
+ ref_id: 1536954814459
 ---
 ![迷上Monty Python - terryoy -
 terryoy的博客](http://www.bbc.co.uk/comedy/guide/images/400/flyingcircus_1.jpg)

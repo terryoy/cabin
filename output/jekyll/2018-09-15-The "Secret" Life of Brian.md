@@ -3,6 +3,7 @@
  title: The "Secret" Life of Brian
  date: 2018-09-15 03:56
  tags: 旧博客存档
+ ref_id: 1536954985530
 ---
 偶然发现了youtube上有关于Monty Python电影的一部Documentary, 兴奋到立即下载来看.
 这部纪录片讲述了从一开始怎么灵感闪现到如何开始策划, 到如何历尽困难把电影制作完成,

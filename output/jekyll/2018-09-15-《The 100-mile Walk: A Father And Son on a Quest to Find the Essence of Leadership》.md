@@ -3,6 +3,7 @@
  title: 《The 100-mile Walk: A Father And Son on a Quest to Find the Essence of Leadership》
  date: 2018-09-15 03:54
  tags: 旧博客存档
+ ref_id: 1536954871779
 ---
    ![《The 100-mile Walk: A Father And Son on a Quest to Find the Essence of
 Leadership》 - terryoy -

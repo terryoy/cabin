@@ -3,6 +3,7 @@
  title: Dealing With Difficult People
  date: 2018-09-15 03:54
  tags: 旧博客存档
+ ref_id: 1536954844975
 ---
 ![Dealing With Difficult People - terryoy -
 terryoy的博客](http://imglf5.nosdn0.126.net/img/d3RhVFdGTXZTU3FWYjUvU0NEZTFhb1ZKemJwODJzTlZBWFV4aHpvUnBaZ05hTlJFRElSTzJBPT0.jpg)

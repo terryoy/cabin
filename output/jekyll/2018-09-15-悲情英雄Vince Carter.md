@@ -3,6 +3,7 @@
  title: 悲情英雄Vince Carter
  date: 2018-09-15 03:54
  tags: 旧博客存档
+ ref_id: 1536954871853
 ---
 昨天是NBA2006－2007赛季季后赛的第一天，篮网队作客在Toronto的Air Canada Center迎战主队猛龙队，Vince
 Carter又一次重回旧地，穿着网队的球衣来到这个他曾经征战多年的球馆。然而，迎接他的场面却很不是一般滋味：

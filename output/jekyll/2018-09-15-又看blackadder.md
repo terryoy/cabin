@@ -3,6 +3,7 @@
  title: 又看blackadder
  date: 2018-09-15 03:51
  tags: 旧博客存档
+ ref_id: 1536954697779
 ---
 这次看的是Christmas Carol的blackadder版(Christmas Carol是Dickens的著名小说< >)
 

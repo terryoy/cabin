@@ -3,6 +3,7 @@
  title: 惊闻Donald Trump上WWE节目...
  date: 2018-09-15 03:54
  tags: 旧博客存档
+ ref_id: 1536954850345
 ---
 今晚吃饭的时候无聊打开gdtv, 逢星期一会播WWE(就是以前的WWF,世界摔跤联盟)的每周精选, 出奇地突然间看见Donald
 Trump出现了在擂台上面, 与WWE的老总Vince McMahon进行擂台上的对话. 我当时就想到两样东西:

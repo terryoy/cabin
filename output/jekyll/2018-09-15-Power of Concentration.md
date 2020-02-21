@@ -3,6 +3,7 @@
  title: Power of Concentration
  date: 2018-09-15 03:54
  tags: 旧博客存档
+ ref_id: 1536954849738
 ---
 昨天看完了一本不到100页的[《The Power of
 Concentration》](http://gigapedia.org/item.id:12766,title:power-of-

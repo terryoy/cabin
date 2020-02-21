@@ -3,6 +3,7 @@
  title: Problem Solving and Decision Making笔记(3)
  date: 2018-09-15 03:53
  tags: 旧博客存档
+ ref_id: 1536954820595
 ---
 第一步骤 － 处境分析
 

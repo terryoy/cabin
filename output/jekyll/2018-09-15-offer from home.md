@@ -3,6 +3,7 @@
  title: offer from home
  date: 2018-09-15 03:51
  tags: 旧博客存档
+ ref_id: 1536954703766
 ---
 昨天室友去签腾讯offer, 回来就看见mc满版的屈bg, 太搞笑了. 不过自己没份阿, 都想wish一下他能够有好的结果.
 
