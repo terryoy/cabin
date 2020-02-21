@@ -16,8 +16,13 @@ def ensure_dir(path):
         os.makedirs(path)
 
 def to_markdown(html):
-    convertor = html2text.HTML2Text()
-    return convertor.handle(html)
+    try:
+        convertor = html2text.HTML2Text()
+        return convertor.handle(html)
+    except:
+        print('convert error: {}'.format(html))
+
+    return ""
 
 class JekyllPage:
     postMapping = None
@@ -52,8 +57,9 @@ class JekyllPage:
         self.create_date = datetime.strptime(wpitem["wp:post_date"], "%Y-%m-%d %H:%M:%S")
         self.frontMatters["date"] = self.create_date.strftime("%Y-%m-%d %H:%M")
         if wpitem.get("category"):
-            self.frontMatters["categories"] = wpitem["category"]["#text"]
+            self.frontMatters["tags"] = wpitem["category"]["#text"]
 
+        self.body = to_markdown(wpitem["content:encoded"])
     
     def output(self, path):
         print("saving files to {}...".format(path))
