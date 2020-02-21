@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:media="http://search.yahoo.com/mrss/"
+	>
+
+<channel>
+	<title>Terry小屋&#124;WordPress版</title>
+	<atom:link href="https://terryoy.wordpress.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://terryoy.wordpress.com</link>
+	<description>Be a comedian in Life Theatre</description>
+	<lastBuildDate>Wed, 13 Oct 2010 01:37:52 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>http://wordpress.com/</generator>
+<cloud domain='terryoy.wordpress.com' port='80' path='/?rsscloud=notify' registerProcedure='' protocol='http-post' />
+<image>
+		<url>https://s0.wp.com/i/buttonw-com.png</url>
+		<title>Terry小屋&#124;WordPress版</title>
+		<link>https://terryoy.wordpress.com</link>
+	</image>
+	<atom:link rel="search" type="application/opensearchdescription+xml" href="https://terryoy.wordpress.com/osd.xml" title="Terry小屋&#124;WordPress版" />
+	<atom:link rel='hub' href='https://terryoy.wordpress.com/?pushpress=hub'/>
+	<item>
+		<title>正式关门</title>
+		<link>https://terryoy.wordpress.com/2010/10/13/%e6%ad%a3%e5%bc%8f%e5%85%b3%e9%97%a8/</link>
+					<comments>https://terryoy.wordpress.com/2010/10/13/%e6%ad%a3%e5%bc%8f%e5%85%b3%e9%97%a8/#respond</comments>
+		
+		<dc:creator><![CDATA[terryoy]]></dc:creator>
+		<pubDate>Wed, 13 Oct 2010 01:37:52 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://terryoy.wordpress.com/2010/10/13/%e6%ad%a3%e5%bc%8f%e5%85%b3%e9%97%a8</guid>
+
+					<description><![CDATA[由于space逼迁，目前已将文章备份到国内几个不同的博客网站。将来有更新的话，可能就是在博客大巴了，但目前想暂停写个人博客一段时间。 特别敬告MSN上的好友们，目前我的主要活动范围是豆瓣（douban）和新浪微博。希望继续关注我的朋友可以继续上这两个地方关注，欢迎交流。 谢谢一直坚持看此博客的人们。这个世上最难得的，是坚持。 Thank you guys!]]></description>
+										<content:encoded><![CDATA[<div id="msgcns!E852F37E48F28286!2080" class="bvMsg">
+<p>由于space逼迁，目前已将文章备份到国内几个不同的博客网站。将来有更新的话，可能就是在<a href="http://terryoy.blogbus.com/" target="_blank">博客大巴</a>了，但目前想暂停写个人博客一段时间。</p>
+<p>特别敬告MSN上的好友们，目前我的主要活动范围是<a href="http://www.douban.com/people/terryoy/" target="_blank">豆瓣（douban）</a>和<a href="http://t.sina.com.cn/terryoy" target="_blank">新浪微博</a>。希望继续关注我的朋友可以继续上这两个地方关注，欢迎交流。</p>
+<p>谢谢一直坚持看此博客的人们。这个世上最难得的，是坚持。</p>
+<p>Thank you guys!</p>
+</p></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://terryoy.wordpress.com/2010/10/13/%e6%ad%a3%e5%bc%8f%e5%85%b3%e9%97%a8/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		
+		<media:content url="https://1.gravatar.com/avatar/1cab94e7d54e32e19f12d9227b85b4f4?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">terryoy</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Hello world!</title>
+		<link>https://terryoy.wordpress.com/2010/09/29/hello-world/</link>
+					<comments>https://terryoy.wordpress.com/2010/09/29/hello-world/#respond</comments>
+		
+		<dc:creator><![CDATA[terryoy]]></dc:creator>
+		<pubDate>Wed, 29 Sep 2010 13:06:03 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://terryoy.wordpress.com/?p=1</guid>
+
+					<description><![CDATA[Welcome to WordPress.com. This is your first post. Edit or delete it and start blogging!]]></description>
+										<content:encoded><![CDATA[<p>Welcome to <a href="http://wordpress.com/">WordPress.com</a>. This is your first post. Edit or delete it and start blogging!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://terryoy.wordpress.com/2010/09/29/hello-world/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		
+		<media:content url="https://1.gravatar.com/avatar/1cab94e7d54e32e19f12d9227b85b4f4?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">terryoy</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>坚持。。。</title>
+		<link>https://terryoy.wordpress.com/2010/09/28/%e5%9d%9a%e6%8c%81%e3%80%82%e3%80%82%e3%80%82/</link>
+					<comments>https://terryoy.wordpress.com/2010/09/28/%e5%9d%9a%e6%8c%81%e3%80%82%e3%80%82%e3%80%82/#respond</comments>
+		
+		<dc:creator><![CDATA[terryoy]]></dc:creator>
+		<pubDate>Tue, 28 Sep 2010 15:06:42 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://terryoy.wordpress.com/2010/09/28/%e5%9d%9a%e6%8c%81%e3%80%82%e3%80%82%e3%80%82</guid>
+
+					<description><![CDATA[没想到，我一下子，就坚持到msn space要关服务了。。。 看来我毅力要比msn强啊！ 不过，这个地方始终有感情了，就这么关了，好可惜啊 对了，以后去新浪博客关注我吧，顺便跟微博整合了。换个窝，感觉就完全不同了。]]></description>
+										<content:encoded><![CDATA[<div id="msgcns!E852F37E48F28286!2079" class="bvMsg">
+<p>没想到，我一下子，就坚持到msn space要关服务了。。。</p>
+<p>看来我毅力要比msn强啊！</p>
+<p>不过，这个地方始终有感情了，就这么关了，好可惜啊</p>
+<p>对了，以后去新浪博客关注我吧，顺便跟微博整合了。换个窝，感觉就完全不同了。</p>
+</p></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://terryoy.wordpress.com/2010/09/28/%e5%9d%9a%e6%8c%81%e3%80%82%e3%80%82%e3%80%82/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		
+		<media:content url="https://1.gravatar.com/avatar/1cab94e7d54e32e19f12d9227b85b4f4?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">terryoy</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>一不小心又好久没更新了</title>
+		<link>https://terryoy.wordpress.com/2010/09/25/%e4%b8%80%e4%b8%8d%e5%b0%8f%e5%bf%83%e5%8f%88%e5%a5%bd%e4%b9%85%e6%b2%a1%e6%9b%b4%e6%96%b0%e4%ba%86/</link>
+					<comments>https://terryoy.wordpress.com/2010/09/25/%e4%b8%80%e4%b8%8d%e5%b0%8f%e5%bf%83%e5%8f%88%e5%a5%bd%e4%b9%85%e6%b2%a1%e6%9b%b4%e6%96%b0%e4%ba%86/#respond</comments>
+		
+		<dc:creator><![CDATA[terryoy]]></dc:creator>
+		<pubDate>Sat, 25 Sep 2010 14:41:09 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://terryoy.wordpress.com/2010/09/25/%e4%b8%80%e4%b8%8d%e5%b0%8f%e5%bf%83%e5%8f%88%e5%a5%bd%e4%b9%85%e6%b2%a1%e6%9b%b4%e6%96%b0%e4%ba%86</guid>
+
+					<description><![CDATA[中秋回了一趟家，很累。虎门那边塞车，搞到差不多一点才回到家。 跟家里人讨论自己的人生和感情的时候，很反感他们总是从自己的观念出发，总是说要这个要那个，说我从来不这个总是不那个。不知道为何最近讨论都很累，我是不是该提醒自己装一下傻，人家说什么就迁就一下人家的意思好了。 今年还剩一个季度了，努力一下冲破最后的难关，明年要威风凛凛！]]></description>
+										<content:encoded><![CDATA[<div id="msgcns!E852F37E48F28286!2078" class="bvMsg">
+<p>中秋回了一趟家，很累。虎门那边塞车，搞到差不多一点才回到家。</p>
+<p>跟家里人讨论自己的人生和感情的时候，很反感他们总是从自己的观念出发，总是说要这个要那个，说我从来不这个总是不那个。不知道为何最近讨论都很累，我是不是该提醒自己装一下傻，人家说什么就迁就一下人家的意思好了。</p>
+<p>今年还剩一个季度了，努力一下冲破最后的难关，明年要威风凛凛！</p>
+</p></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://terryoy.wordpress.com/2010/09/25/%e4%b8%80%e4%b8%8d%e5%b0%8f%e5%bf%83%e5%8f%88%e5%a5%bd%e4%b9%85%e6%b2%a1%e6%9b%b4%e6%96%b0%e4%ba%86/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		
+		<media:content url="https://1.gravatar.com/avatar/1cab94e7d54e32e19f12d9227b85b4f4?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">terryoy</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>ok，长话短说</title>
+		<link>https://terryoy.wordpress.com/2010/09/10/ok%ef%bc%8c%e9%95%bf%e8%af%9d%e7%9f%ad%e8%af%b4/</link>
+					<comments>https://terryoy.wordpress.com/2010/09/10/ok%ef%bc%8c%e9%95%bf%e8%af%9d%e7%9f%ad%e8%af%b4/#respond</comments>
+		
+		<dc:creator><![CDATA[terryoy]]></dc:creator>
+		<pubDate>Fri, 10 Sep 2010 13:15:37 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://terryoy.wordpress.com/2010/09/10/ok%ef%bc%8c%e9%95%bf%e8%af%9d%e7%9f%ad%e8%af%b4</guid>
+
+					<description><![CDATA[自上周从广州回来，便感冒发烧了，仅休了半天假，以半条命的状态坚持到周末，应付了非常繁忙的一周。现在终于可以大呼一口气，好好休息了！ 这期间有几个经验收获： 1. 九点半前睡觉绝对是一个好东西，除了恢复精神以外，对于身体各部分机能的恢复尤为重要，宁愿早点起床用早上的时间换晚上的时间。 2. 回到公司时，避免立即进入空调范围，应该在门口小驻一会，这样让身体可以有一个逐渐适应室温的过程，就会减少寒气入侵的机会。 3. 中午在科技园的餐馆基本都是吃辣菜，饮食不健康，不如骑车去稍远一点的地方，一来避免人潮，二来可以挑清淡的口味，三来可以在外面晒晒太阳吹吹风，是午休的不错选择。 4. 周末的时间应该做适当计划，否则宅在家很容易迷迷糊糊就过了一天，一事无成。 好了，该休息了。。]]></description>
+										<content:encoded><![CDATA[<div id="msgcns!E852F37E48F28286!2077" class="bvMsg">
+<p>自上周从广州回来，便感冒发烧了，仅休了半天假，以半条命的状态坚持到周末，应付了非常繁忙的一周。现在终于可以大呼一口气，好好休息了！</p>
+<p>这期间有几个经验收获：</p>
+<p>1. 九点半前睡觉绝对是一个好东西，除了恢复精神以外，对于身体各部分机能的恢复尤为重要，宁愿早点起床用早上的时间换晚上的时间。</p>
+<p>2. 回到公司时，避免立即进入空调范围，应该在门口小驻一会，这样让身体可以有一个逐渐适应室温的过程，就会减少寒气入侵的机会。</p>
+<p>3. 中午在科技园的餐馆基本都是吃辣菜，饮食不健康，不如骑车去稍远一点的地方，一来避免人潮，二来可以挑清淡的口味，三来可以在外面晒晒太阳吹吹风，是午休的不错选择。</p>
+<p>4. 周末的时间应该做适当计划，否则宅在家很容易迷迷糊糊就过了一天，一事无成。</p>
+<p>好了，该休息了。。</p>
+</p></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://terryoy.wordpress.com/2010/09/10/ok%ef%bc%8c%e9%95%bf%e8%af%9d%e7%9f%ad%e8%af%b4/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		
+		<media:content url="https://1.gravatar.com/avatar/1cab94e7d54e32e19f12d9227b85b4f4?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">terryoy</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>太贪心</title>
+		<link>https://terryoy.wordpress.com/2010/08/30/%e5%a4%aa%e8%b4%aa%e5%bf%83/</link>
+					<comments>https://terryoy.wordpress.com/2010/08/30/%e5%a4%aa%e8%b4%aa%e5%bf%83/#respond</comments>
+		
+		<dc:creator><![CDATA[terryoy]]></dc:creator>
+		<pubDate>Mon, 30 Aug 2010 15:38:33 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://terryoy.wordpress.com/2010/08/30/%e5%a4%aa%e8%b4%aa%e5%bf%83</guid>
+
+					<description><![CDATA[从蒙古回来了，一边整理照片，一边无限地回忆着每一个美丽的地方。清净的边境城市满洲里，辽阔如画的呼伦贝尔大草原，满山绿林的阿尔山森林公园，蜿蜒流沙的响沙湾，富饶崭新的鬼城康巴什，黄河日落，水天一色的乌梁素海，雄伟壮丽的贺兰山。。。 看尽这些无与伦比的美景之后，竟激起了我对自由的无限渴望。如果有一天可以放下工作和生活的忙碌，尽情享受每一个不同地方的美丽风景，人生追求也就满足了。只是美景总有，而时光不常有，做人是不是太贪心了？ 但愿美景常在，等我尽情地追~！]]></description>
+										<content:encoded><![CDATA[<div id="msgcns!E852F37E48F28286!2076" class="bvMsg">
+<p>从蒙古回来了，一边整理照片，一边无限地回忆着每一个美丽的地方。清净的边境城市满洲里，辽阔如画的呼伦贝尔大草原，满山绿林的阿尔山森林公园，蜿蜒流沙的响沙湾，富饶崭新的鬼城康巴什，黄河日落，水天一色的乌梁素海，雄伟壮丽的贺兰山。。。</p>
+<p>看尽这些无与伦比的美景之后，竟激起了我对自由的无限渴望。如果有一天可以放下工作和生活的忙碌，尽情享受每一个不同地方的美丽风景，人生追求也就满足了。只是美景总有，而时光不常有，做人是不是太贪心了？</p>
+<p>但愿美景常在，等我尽情地追~！</p>
+</p></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://terryoy.wordpress.com/2010/08/30/%e5%a4%aa%e8%b4%aa%e5%bf%83/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		
+		<media:content url="https://1.gravatar.com/avatar/1cab94e7d54e32e19f12d9227b85b4f4?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">terryoy</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>终成行</title>
+		<link>https://terryoy.wordpress.com/2010/08/14/%e7%bb%88%e6%88%90%e8%a1%8c/</link>
+					<comments>https://terryoy.wordpress.com/2010/08/14/%e7%bb%88%e6%88%90%e8%a1%8c/#comments</comments>
+		
+		<dc:creator><![CDATA[terryoy]]></dc:creator>
+		<pubDate>Fri, 13 Aug 2010 22:08:40 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://terryoy.wordpress.com/2010/08/14/%e7%bb%88%e6%88%90%e8%a1%8c</guid>
+
+					<description><![CDATA[横穿内蒙之旅，未来两星期消失中。。。欢迎短联]]></description>
+										<content:encoded><![CDATA[<div id="msgcns!E852F37E48F28286!2074" class="bvMsg">
+<p>横穿内蒙之旅，未来两星期消失中。。。欢迎短联</p>
+</p></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://terryoy.wordpress.com/2010/08/14/%e7%bb%88%e6%88%90%e8%a1%8c/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		
+		<media:content url="https://1.gravatar.com/avatar/1cab94e7d54e32e19f12d9227b85b4f4?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">terryoy</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>瓶颈</title>
+		<link>https://terryoy.wordpress.com/2010/08/05/%e7%93%b6%e9%a2%88/</link>
+					<comments>https://terryoy.wordpress.com/2010/08/05/%e7%93%b6%e9%a2%88/#comments</comments>
+		
+		<dc:creator><![CDATA[terryoy]]></dc:creator>
+		<pubDate>Thu, 05 Aug 2010 13:58:39 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://terryoy.wordpress.com/2010/08/05/%e7%93%b6%e9%a2%88</guid>
+
+					<description><![CDATA[前两天发了两封email，结果被人批评了。自己表现得太主动了一些，也不懂太多规矩，在与客户和上级沟通方面的确有很多地方还要学习。但另一方面，这件事也令我反思了最近的工作状态，觉得自己已经越来越失去热情了。 我甚至怀疑自己，是否真的有兴趣继续在金融IT行业发展。一方面，这个行业的系统都比较庞大，目前自己的能力，能做的都是小块小块的东西，感觉自己能发挥的地方不多；另一方面，金融方面的业务知识，自己作为做技术的职位，再怎么学都不可能比那些专业的人士学得好。目前这份工仍然吸引我的地方就是工作不忙，有比较大的自由度，可以学自己想学的东西，但长此以往，很容易会磨灭自己的激情。加上自己有越来越多的想法很想去做，而总是觉得现在的时间不够用，或者是没有共同目标的人一起努力。目前有一种感觉，就是这份工已经离自己的理想状态越来越远，但是却仍然未想好下一步应该怎么走好。]]></description>
+										<content:encoded><![CDATA[<div id="msgcns!E852F37E48F28286!2071" class="bvMsg">
+<p>前两天发了两封email，结果被人批评了。自己表现得太主动了一些，也不懂太多规矩，在与客户和上级沟通方面的确有很多地方还要学习。但另一方面，这件事也令我反思了最近的工作状态，觉得自己已经越来越失去热情了。</p>
+<p>我甚至怀疑自己，是否真的有兴趣继续在金融IT行业发展。一方面，这个行业的系统都比较庞大，目前自己的能力，能做的都是小块小块的东西，感觉自己能发挥的地方不多；另一方面，金融方面的业务知识，自己作为做技术的职位，再怎么学都不可能比那些专业的人士学得好。目前这份工仍然吸引我的地方就是工作不忙，有比较大的自由度，可以学自己想学的东西，但长此以往，很容易会磨灭自己的激情。加上自己有越来越多的想法很想去做，而总是觉得现在的时间不够用，或者是没有共同目标的人一起努力。目前有一种感觉，就是这份工已经离自己的理想状态越来越远，但是却仍然未想好下一步应该怎么走好。</p>
+</p></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://terryoy.wordpress.com/2010/08/05/%e7%93%b6%e9%a2%88/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		
+		<media:content url="https://1.gravatar.com/avatar/1cab94e7d54e32e19f12d9227b85b4f4?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">terryoy</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Relationship Business</title>
+		<link>https://terryoy.wordpress.com/2010/07/25/relationship-business/</link>
+					<comments>https://terryoy.wordpress.com/2010/07/25/relationship-business/#respond</comments>
+		
+		<dc:creator><![CDATA[terryoy]]></dc:creator>
+		<pubDate>Sun, 25 Jul 2010 15:10:09 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://terryoy.wordpress.com/2010/07/25/relationship-business</guid>
+
+					<description><![CDATA[前两天听客户方的dpt.head介绍公司的历史文化，印象最深刻的是这个词”Relationship Business“，就好像他们的slogan一样“You And Us”。很佩服这间公司的价值观，作为全球最有名的金融企业之一，却不说自己做的是Money Business，而是强调自己做的是“Relationship Business”。尽管我们是外包的员工，但仍能感受到他们对我们的尊重，能够考虑我们的需要，做好甲乙双方的关系，寻求共赢。 You And Us，这个正是国内很多企业所忽视的价值。今天某文还跟我提起他们公司跟深圳某知名企业合作告吹的事情，正好是对这一价值观忽视的典型例子。其实，能管理好客户关系，让客户和企业站在同一线上的企业，才是真正能持久的企业。做生意的，不应该眼光只游走在利润上，而应该多关怀周边的人与社会，建立与社会共发展的生态圈。说到底，我只希望我们的生活能够过得更舒适，更快乐。]]></description>
+										<content:encoded><![CDATA[<div id="msgcns!E852F37E48F28286!2070" class="bvMsg">
+<p>前两天听客户方的dpt.head介绍公司的历史文化，印象最深刻的是这个词”Relationship Business“，就好像他们的slogan一样“You And Us”。很佩服这间公司的价值观，作为全球最有名的金融企业之一，却不说自己做的是Money Business，而是强调自己做的是“Relationship Business”。尽管我们是外包的员工，但仍能感受到他们对我们的尊重，能够考虑我们的需要，做好甲乙双方的关系，寻求共赢。</p>
+<p>You And Us，这个正是国内很多企业所忽视的价值。今天某文还跟我提起他们公司跟深圳某知名企业合作告吹的事情，正好是对这一价值观忽视的典型例子。其实，能管理好客户关系，让客户和企业站在同一线上的企业，才是真正能持久的企业。做生意的，不应该眼光只游走在利润上，而应该多关怀周边的人与社会，建立与社会共发展的生态圈。说到底，我只希望我们的生活能够过得更舒适，更快乐。</p>
+</p></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://terryoy.wordpress.com/2010/07/25/relationship-business/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		
+		<media:content url="https://1.gravatar.com/avatar/1cab94e7d54e32e19f12d9227b85b4f4?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">terryoy</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Slow is Fast</title>
+		<link>https://terryoy.wordpress.com/2010/07/14/slow-is-fast/</link>
+					<comments>https://terryoy.wordpress.com/2010/07/14/slow-is-fast/#respond</comments>
+		
+		<dc:creator><![CDATA[terryoy]]></dc:creator>
+		<pubDate>Wed, 14 Jul 2010 14:12:02 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://terryoy.wordpress.com/2010/07/14/slow-is-fast</guid>
+
+					<description><![CDATA[There is a famous quote in Design, &#34;Less is more.&#34; It tells people that when things are designed in a simple way, you can enjoy more with them, and things also will last longer. It also tells people not to &#8230; <a href="https://terryoy.wordpress.com/2010/07/14/slow-is-fast/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<div id="msgcns!E852F37E48F28286!2068" class="bvMsg">
+<p>There is a famous quote in Design, &quot;Less is more.&quot; It tells people that when things are designed in a simple way, you can enjoy more with them, and things also will last longer. It also tells people not to do things over but just good enough.</p>
+<p>In the past few days, I&#8217;v been thinking a similar idea in a different dimension &#8211; time. People nowadays are becoming more impatient. It seems to them that there are too many things in their lives, and they don&#8217;t know how to keep up with everything so that they don&#8217;t fall behind. So they learn to do things as quickly as possible, and as effeciently as possible. Time is too expensive to spend. The second worst thing for them is to find out that after so hard they have been working all along, they still fall behind someone else (and most possibly younger than them). And the only thing worst than that, is to find out that someone who was behind them have been ahead.</p>
+<p>I&#8217;ve been feeling this way for quite a long time too. But suddenly I realize, if this is the real life, how are you going to enjoy it? It&#8217;s impossible to always keep the leading place in the game of life. To win one match, you have to give up all the other matches to focus. Otherwise you will lose to someone who do this. So you learn to slow down yourself in the unimportant events, and slow down yourself in the unimportant  moments.</p>
+<p>Only those who always watch the clock notice how time passes&#8230;&#8230;but not noticing how much time is wasted on watching it. </p>
+<p>There is an inner time inside every person, and there is the outer time outside every person. For the outer time, no matter what one&#8217;s doing, it counts. For the inner time, only doing things when one really enjoy, it counts, and it counts faster if you enjoy more. So if you do nothing, you&#8217;ll find how the outer universal time flies but your inner time didn&#8217;t make any progress. But if you&#8217;re doing your most enjoyable things, you&#8217;ll feel amazing like how much wonderful time has passed, but it might be only a few hours actually.</p>
+<p>Interesting as it is, I find my time is getting slow recently. Outer time is slow, and inner time is fast.</p>
+</p></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://terryoy.wordpress.com/2010/07/14/slow-is-fast/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		
+		<media:content url="https://1.gravatar.com/avatar/1cab94e7d54e32e19f12d9227b85b4f4?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">terryoy</media:title>
+		</media:content>
+	</item>
+	</channel>
+</rss>
