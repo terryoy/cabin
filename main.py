@@ -19,7 +19,7 @@ def post_parser(entry):
     return result
 
 def get_export_file_name(post):
-    return "./output/archive/{}-{}.md".format(
+    return "./output/markdown/{}-{}.md".format(
         post["publishtime"],
         post["title"]
     )
