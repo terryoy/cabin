@@ -1,7 +1,4 @@
 import requests
-
-from framework.utils.dwr_client import DWRClient
-
 """
 Examples for sina blog requests:
 
@@ -34,30 +31,40 @@ batchId=324598
 
 """
 
-PARAM_1 = {
-	"callCount": 1,
-#	"scriptSessionId": "${scriptSessionId}187",
-#	"c0-scriptName": "BlogBeanNew",
-#	"c0-methodName": "getBlogs",
-	"c0-id": 0,
-#	"c0-param0": "number:61512981",
-#	"c0-param1": "number:0",
-#	"c0-param2": "number:20",
-#	"batchId": 820803
+session = requests.Session()
+headers = {
+    "Referer": "http://api.blog.163.com/crossdomain.html?t=20100205",
+	"Content-Type": "text/plain",
+	"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36"
 }
 
-def main():
+PARAM_TEMPLATE = {
+    "callCount": 1,
+    "scriptSessionId": "${scriptSessionId}187",
+    "c0-scriptName": "BlogBeanNew",
+    "c0-methodName": "getBlogs",
+    "c0-id": 0,
+    "c0-param0": "number:61512981",
+    "c0-param1": "number:0",
+    "c0-param2": "number:20",
+    "batchId": 820803
+}
+
+def post(offset=0, limit=20):
     HOST = 'http://api.blog.163.com'
     PAGE = '/terryoy/dwr/call/plaincall/BlogBeanNew.getBlogs.dwr'
-    dwr = DWRClient(requests.Session(), HOST)
-    dwr.set_params(PARAM_1)
-    dwr.set_page(PAGE)
-    dwr.init()
-    
-    res = dwr.request('BlogBeanNew', 'getBlogs', [ '61512981', '20', '0'])
-    print(res.content)
+    url = HOST + PAGE
+    data = PARAM_TEMPLATE
+    data["c0-param1"] = "number:" + str(offset)
+    data["c0-param2"] = "number:" + str(limit)
 
+    print('request:', url, data, headers)
+    res = session.post(url, data=data, headers=headers)
+    return res.content.decode('gbk')
 
+def main():
+    content = post()
+    print('content:', content)
 
 
 
