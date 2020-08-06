@@ -1,4 +1,6 @@
 import requests
+
+from framework.utils.dwr_parser import DWRParser
 """
 Examples for 163 blog requests:
 
@@ -63,9 +65,14 @@ def post(offset=0, limit=20):
     return res.content.decode('gbk')
 
 def main():
+    parser = DWRParser()
     content = post()
-    print('content:', content)
+    #print('content:', content)
+    names = parser.parse_object_names(content)
+    print('names:', names)
+    objects = parser.parse_objects(names, content)
 
+    print("objects:", objects)
 
 
 
