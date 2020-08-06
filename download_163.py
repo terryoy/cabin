@@ -1,6 +1,6 @@
 import requests
 """
-Examples for sina blog requests:
+Examples for 163 blog requests:
 
 
 http://blog.163.com/regulator/api/blog/moveBlogName?userName=terryoy
