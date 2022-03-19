@@ -1,0 +1,41 @@
+
+body {
+}
+
+.album-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+section.bc-release {
+  border-radius: 5px;
+  border: 1px solid #eee;
+  margin: 10px;
+  padding: 0px 10px 10px;
+  width: 500px;
+}
+
+section.bc-release table {
+  font-family: monospace;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+section.bc-release th:nth-child(1) {
+  width: 10%;
+}
+section.bc-release th:nth-child(2) {
+  width: 50%;
+}
+
+section.bc-release th:nth-child(3) {
+  width: 40%;
+}
+
+section.bc-release td,
+section.bc-release th {
+  padding: 3px 7px;
+  vertical-align: top;
+  border: 1px solid #baa;
+}
