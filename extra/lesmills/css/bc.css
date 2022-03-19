@@ -2,10 +2,16 @@
 body {
 }
 
+#page-title {
+  text-decoration: underline;
+  text-align: center;
+}
+
 .album-container {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
+  justify-content: center;
 }
 
 section.bc-release {
