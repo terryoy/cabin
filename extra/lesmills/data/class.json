@@ -2,42 +2,49 @@
     {
         "id": "bc",
         "name": "Les Mills - Body Combat",
+        "short": "Body Combat",
         "release_data": "bc_list.json",
         "all_tracks": "/data/all_bc.json"
     },
     {
         "id": "bp",
         "name": "Les Mills - Body Pump",
+        "short": "Body Pump",
         "release_data": "bp_list.json",
         "all_tracks": "/data/all_bp.json"
     },
     {
         "id": "bj",
         "name": "Les Mills - Body Jam",
+        "short": "Body Jam",
         "release_data": "bj_list.json",
         "all_tracks": "/data/all_bj.json"
     },
     {
         "id": "ba",
         "name": "Les Mills - Body Attack",
+        "short": "Body Attack",
         "release_data": "ba_list.json",
         "all_tracks": "/data/all_ba.json"
     },
     {
         "id": "bb",
         "name": "Les Mills - Body Balance",
+        "short": "Body Balance",
         "release_data": "bb_list.json",
         "all_tracks": "/data/all_bb.json"
     },
     {
         "id": "bs",
         "name": "Les Mills - Body Step",
+        "short": "Body Step",
         "release_data": "bs_list.json",
         "all_tracks": "/data/all_bs.json"
     },
     {
         "id": "rpm",
         "name": "Les Mills - RPM",
+        "short": "RPM",
         "release_data": "rpm_list.json",
         "all_tracks": "/data/all_rpm.json"
     }
