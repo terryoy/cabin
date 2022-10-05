@@ -4,6 +4,7 @@
         "name": "Les Mills - Body Combat",
         "short": "Body Combat",
         "release_data": "bc_list.json",
+        "format": "v1",
         "all_tracks": "/data/all_bc.json"
     },
     {
