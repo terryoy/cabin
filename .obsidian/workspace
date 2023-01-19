@@ -1,0 +1,110 @@
+{
+  "main": {
+    "id": "6fad00dc885b2dd8",
+    "type": "split",
+    "children": [
+      {
+        "id": "f259c48e246bc3d4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_posts/2023-01-02-new-year-resolution.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b2a28c742e851205",
+    "type": "split",
+    "children": [
+      {
+        "id": "97a0afdd84122576",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8ab6e84e97814cc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1f2e2127a79ef0c1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#each",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "68935764bb1e933c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 335.5
+  },
+  "right": {
+    "id": "de07bce2c5623ad1",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0ce5d164d699814",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19e7ce812507e250",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6a767e6236b9c846",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_posts/2023-01-02-new-year-resolution.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "f259c48e246bc3d4",
+  "lastOpenFiles": [
+    "_posts/2022-02-01-new-year-resolution.md",
+    "_posts/2023-01-02-new-year-resolution.md",
+    "_posts/2020-05-31-社会知识深度.md",
+    "_posts/2021-02-17-2020年终总结暨2021年新年计划.md",
+    "_posts/2018-09-15-The Gap Month 间隔月 - 小结.md"
+  ]
+}
