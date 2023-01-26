@@ -114,7 +114,7 @@ date: '2023-01-02 12:00:00'
 
 所以从今年开始，我也向很多朋友推荐深圳，我觉得它值得一个“花园城市”的美誉。
 
-![image.png](https://pic.lucki.cn/picgo20230126235018.png)
+![image.png](https://pic.lucki.cn/picgo20230127002046.png)
 
 ![image.png](https://pic.lucki.cn/picgo20230126235437.png)
 
