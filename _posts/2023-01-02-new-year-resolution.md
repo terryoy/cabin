@@ -98,6 +98,12 @@ date: '2023-01-02 12:00:00'
 
 很多人的生活都是被这样打破了许多既定的规则，有些人无法挣钱，有些人压抑崩溃，有些人拼死反抗，有些人默默躺平。这就像是战争年代一样，虽然我们的敌人是病毒，但战争都是无情和现实的，当无情的现实来临的时候，唯一能救你的只有你自己，让自己变得坚强，让自己有所准备，在过好自己的生活的同事，能帮助到一些人的就帮助一些人，大家一起渡过难关。
 
+![](https://pic.lucki.cn/picgo202301262220425.png)
+
+![](https://pic.lucki.cn/picgo20230126221818.png)
+
+
+
 ### 关于深圳这个城市
 
 在如此的疫情之下，这一年我们也趁着能走出去的机会都出去走走，不仅仅是去其他地方旅游，也尝试用双脚去丈量深圳的每个小地方。这几年对深圳的感受是变化真的很大！
@@ -107,6 +113,39 @@ date: '2023-01-02 12:00:00'
 再说生态方面，绿化不单单是多种树的意思。深圳整个城市规划奔着“湿地城市”的目标发展，包括植物、鸟类、水质、土壤、各种鱼类、节肢、两栖、爬行和哺乳动物都有不同层次的研究和改进，对很多河涌都有治理，还有每个季节都能看到盛开的花。以前羡慕国外的城市环境好，现在知道了其实只是发展的阶段不一样，我们也在努力地往前走，我相信深圳的未来还可以变得更好。
 
 所以从今年开始，我也向很多朋友推荐深圳，我觉得它值得一个“花园城市”的美誉。
+
+![image.png](https://pic.lucki.cn/picgo20230126235018.png)
+
+![image.png](https://pic.lucki.cn/picgo20230126235437.png)
+
+![image.png](https://pic.lucki.cn/picgo20230127000114.png)
+
+![image.png](https://pic.lucki.cn/picgo20230127000833.png)
+
+![image.png](https://pic.lucki.cn/picgo20230126235317.png)
+
+![image.png](https://pic.lucki.cn/picgo20230126235131.png)
+
+![image.png](https://pic.lucki.cn/picgo20230126234855.png)
+
+![image.png](https://pic.lucki.cn/picgo20230126235220.png)
+
+![image.png](https://pic.lucki.cn/picgo20230126234827.png)
+
+![image.png](https://pic.lucki.cn/picgo20230127000425.png)
+
+![image.png](https://pic.lucki.cn/picgo20230126235612.png)
+
+![image.png](https://pic.lucki.cn/picgo20230127000014.png)
+
+![image.png](https://pic.lucki.cn/picgo20230126235652.png)
+
+![image.png](https://pic.lucki.cn/picgo20230126235815.png)
+
+![image.png](https://pic.lucki.cn/picgo20230127000733.png)
+
+![image.png](https://pic.lucki.cn/picgo20230127000924.png)
+
 
 ## 2023年的展望
 
