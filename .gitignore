@@ -132,5 +132,6 @@ _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+vendor/
 
 # End of https://www.gitignore.io/api/jekyll
