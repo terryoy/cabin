@@ -4,7 +4,7 @@ layout: post
 tags:
   - 年终总结
 date: 2024-01-28 12:00:00
-published: false
+published: true
 ---
 > 什么样的人，选择了什么样的生活方式；而什么样的生活方式，也塑造了你成为什么样的人。
 
