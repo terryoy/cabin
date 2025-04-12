@@ -135,3 +135,5 @@ _site/
 vendor/
 
 # End of https://www.gitignore.io/api/jekyll
+
+.obsidian/workspace.json
