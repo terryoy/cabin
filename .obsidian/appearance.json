@@ -1,4 +1,6 @@
 {
   "cssTheme": "Big Sur Aesthetic",
-  "translucency": true
+  "translucency": true,
+  "accentColor": "",
+  "theme": "moonstone"
 }
