@@ -95,6 +95,7 @@ published: false
 
 我觉得我喜欢旅游到处探索的性格，多少有点遗传了我妈，禁不住的好奇心和想看看这个大世界的冲动。
 
+![mix.jpg](https://pic.lucki.cn/upic/tp490-mix.jpg)
 
 
 ### 6、山西大同——寻找耿市长
