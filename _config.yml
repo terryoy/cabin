@@ -14,5 +14,9 @@ theme: minima
 
 plugins:
   - jekyll-remote-theme
+  - jekyll-paginate
+
+paginate: 10
+paginate_path: "/page:num/"
 
 remote_theme: terryoy/minima 
