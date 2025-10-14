@@ -9,7 +9,8 @@ permalink: /tags/
 {%- if tags and tags.size > 0 -%}
 <ul class="tag-index">
   {%- for tag in tags -%}
-    {%- assign tag_name = tag[0] -%}
+    {%- assign tag_name_raw = tag[0] -%}
+    {%- capture tag_name -%}{{ tag_name_raw }}{%- endcapture -%}
     {%- assign tag_posts = tag[1] | sort: 'date' | reverse -%}
     <li id="{{ tag_name | slugify }}">
       <h2>{{ tag_name }} <span class="tag-count">({{ tag_posts.size }})</span></h2>
