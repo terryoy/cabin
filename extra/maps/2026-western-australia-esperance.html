@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+  />
+  <title>Google Map 全屏自适应</title>
+
+  <style>
+    /* 重置默认样式 */
+    html, body {
+      width: 100%;
+      height: 100%;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+    }
+
+    /* 容器全屏 */
+    .map-container {
+      width: 100vw;
+      height: 100vh;
+    }
+
+    /* iframe 自适应 */
+    .map-container iframe {
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+  </style>
+</head>
+<body>
+  <div class="map-container">
+    <iframe
+      src="https://www.google.com/maps/d/embed?mid=1HHHohMucQRQ6MkDPS3NS8lo2nHqJZto&ehbc=2E312F"
+      loading="lazy"
+      referrerpolicy="no-referrer-when-downgrade"
+      allowfullscreen
+    ></iframe>
+  </div>
+</body>
+</html>
+
