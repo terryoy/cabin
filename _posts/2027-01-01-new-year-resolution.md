@@ -1,10 +1,37 @@
 ---
 layout: "post"
-title: "new year resolution"
+title: "2026年终总结暨2027年新年计划"
 date: 2026-05-21 21:51:24 +0800
-tags: []
+tags: ["年终总结"]
 categories: []
-permalink: "/new-year-resolution/"
-published: true
+permalink: "/new-year-resolution-2027/"
+published: false
 ---
 
+# 卷首语
+
+”旅游大年“
+
+# 2026年的个人十大事件总结
+
+## 1、带齐双亲的老年团西澳南部自驾游！
+
+## 2、贵州洞鼓荡
+
+## 3、大英帝国—英格兰与威尔士掠影
+
+## 4、新加坡生态旅游
+
+## 5、时代巨轮滚滚向前，AI生产力革命将至
+
+## 6、阳台改造计划
+
+## 7、投资是一个团队的事？
+
+## 8、
+
+## 9、
+
+## 10、
+
+## 2027年新年展望
