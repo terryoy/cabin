@@ -20,3 +20,5 @@ paginate: 10
 paginate_path: "/page:num/"
 
 remote_theme: terryoy/minima 
+
+titles_from_headings: false
