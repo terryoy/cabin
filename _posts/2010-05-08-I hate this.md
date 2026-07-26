@@ -1,9 +1,9 @@
 ---
- layout: post
- title: I hate this
- date: 2010-05-08 22:16
- tags: 旧博客存档
- ref_id: 1536955077613
+layout: post
+title: I hate this
+date: 2010-05-08 22:16
+tags: 旧博客存档
+ref_id: 1536955077613
 ---
 stupid promises…always trying to be a nice guy, which only hurts myself.
 

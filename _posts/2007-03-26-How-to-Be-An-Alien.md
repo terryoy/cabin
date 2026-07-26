@@ -1,10 +1,10 @@
 ---
- layout: post
- title: <How to Be An Alien>
- date: 2007-03-26 14:51
- categories: [LOFTER, wordpress]
- tags: 旧博客存档
- ref_id: 1536954850302
+layout: post
+title: <How to Be An Alien>
+date: 2007-03-26 14:51
+categories: [LOFTER, wordpress]
+tags: 旧博客存档
+ref_id: 1536954850302
 ---
 ![](http://files.myopera.com/terryoy/msn/how_to_be_an_alien.JPG)
 

@@ -1,10 +1,10 @@
 ---
- layout: post
- title: Stranger Than Fiction
- date: 2008-03-23 10:12
- categories: [LOFTER, wordpress]
- tags: 旧博客存档
- ref_id: 1536954995766
+layout: post
+title: Stranger Than Fiction
+date: 2008-03-23 10:12
+categories: [LOFTER, wordpress]
+tags: 旧博客存档
+ref_id: 1536954995766
 ---
 Tragedy? or Comedy? 
 

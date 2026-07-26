@@ -1,10 +1,10 @@
 ---
- layout: post
- title: Radiating Possibility
- date: 2007-03-11 16:50
- tags: Uncategorized
- ref_id: 1536955198635
- author: teryoy
+layout: post
+title: Radiating Possibility
+date: 2007-03-11 16:50
+tags: Uncategorized
+ref_id: 1536955198635
+author: teryoy
 ---
 前几天公司Mar.8的Kickoff Meeting 2007，管理层给大家回顾了2006的成绩和2007的展望，顺便也叫了Training &
 Development部门的阿头（大家都亲切地称呼他做“校长”，可能是在座里面资历最老的了，在pccw工作了将近三十年。。。不过看上去一点都不觉得他老）跟我们分享一些关于个人职业发展的idea。主要是围绕一段非常精彩的video展开来说的，这段video就是Benjamin

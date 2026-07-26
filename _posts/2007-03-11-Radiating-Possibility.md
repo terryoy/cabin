@@ -1,9 +1,9 @@
 ---
- layout: post
- title: Radiating Possibility
- date: 2007-03-11 16:50
- categories: wordpress
- tags: 旧博客存档
+layout: post
+title: Radiating Possibility
+date: 2007-03-11 16:50
+categories: wordpress
+tags: 旧博客存档
 ---
 前几天公司Mar.8的Kickoff Meeting 2007，管理层给大家回顾了2006的成绩和2007的展望，顺便也叫了Training & Development部门的阿头（大家都亲切地称呼他做“校长”，可能是在座里面资历最老的了，在pccw工作了将近三十年。。。不过看上去一点都不觉得他老）跟我们分享一些关于个人职业发展的idea。主要是围绕一段非常精彩的video展开来说的，这段video就是Benjamin Zander的《Attitude: Radiating Possibility》，可惜我在网上没找到这个视频的下载，详细的资料也不多（可能跟它的八九百dollar的售价有关。。一段不到二十分钟的视频卖8百刀！），只找到[ _一个preview_](<http://rapidshare.com/files/20115032/Attitude_-_Radiating_Possibility_preview.wmv>)，虽说看preview的理解效果比完整看要差很多，不过还是可以大概了解一点。
 

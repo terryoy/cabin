@@ -1,9 +1,9 @@
 ---
- layout: post
- title: 小换一下Background Music
- date: 2006-08-19 23:13
- tags: 旧博客存档
- ref_id: 1536954738790
+layout: post
+title: 小换一下Background Music
+date: 2006-08-19 23:13
+tags: 旧博客存档
+ref_id: 1536954738790
 ---
 虽然觉得"Reality"这首歌是开张以来最好听的一首bgm，有点不舍得换下来，不过终日沉迷于Sophie Marceau的La Boum是不好的。。。
 

@@ -1,9 +1,9 @@
 ---
- layout: post
- title: 周末看片——《Spamalot》和《The Rocky Horror Picture Show》（下）
- date: 2008-08-18 23:55
- tags: 旧博客存档
- ref_id: 1536954998096
+layout: post
+title: 周末看片——《Spamalot》和《The Rocky Horror Picture Show》（下）
+date: 2008-08-18 23:55
+tags: 旧博客存档
+ref_id: 1536954998096
 ---
 《The Rocky Horror Picture Show 洛基恐怖秀》
 

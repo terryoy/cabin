@@ -1,10 +1,10 @@
 ---
- layout: post
- title: Les Choristes(歌声伴我心)
- date: 2005-11-01 00:34
- categories: [LOFTER, wordpress]
- tags: 旧博客存档
- ref_id: 1536954703302
+layout: post
+title: Les Choristes(歌声伴我心)
+date: 2005-11-01 00:34
+categories: [LOFTER, wordpress]
+tags: 旧博客存档
+ref_id: 1536954703302
 ---
 又是一部法国片.
 

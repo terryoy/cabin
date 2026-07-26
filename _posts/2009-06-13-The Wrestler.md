@@ -1,10 +1,10 @@
 ---
- layout: post
- title: The Wrestler
- date: 2009-06-13 22:43
- tags: Uncategorized
- ref_id: 1536955198635
- author: teryoy
+layout: post
+title: The Wrestler
+date: 2009-06-13 22:43
+tags: Uncategorized
+ref_id: 1536955198635
+author: teryoy
 ---
 作为一个看摔角长大的小孩，我对这部电影真是太有感觉了。记得以前Starsports播WWF流行的时候，我和我老爸都特别爱看，剧情和人物都劲精彩（当然那是Stone
 cold, mick foley, the

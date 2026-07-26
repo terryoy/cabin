@@ -1,10 +1,10 @@
 ---
- layout: post
- title: How to stay cool when you get hot
- date: 2007-01-10 23:23
- categories: [LOFTER, wordpress]
- tags: 旧博客存档
- ref_id: 1536954820802
+layout: post
+title: How to stay cool when you get hot
+date: 2007-01-10 23:23
+categories: [LOFTER, wordpress]
+tags: 旧博客存档
+ref_id: 1536954820802
 ---
 这句话作为我qq的签名档有一段时间了，首先解释下由来：
 

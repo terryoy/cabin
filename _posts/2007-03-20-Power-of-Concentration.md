@@ -1,10 +1,10 @@
 ---
- layout: post
- title: Power of Concentration
- date: 2007-03-20 11:01
- categories: [LOFTER, wordpress]
- tags: 旧博客存档
- ref_id: 1536954849738
+layout: post
+title: Power of Concentration
+date: 2007-03-20 11:01
+categories: [LOFTER, wordpress]
+tags: 旧博客存档
+ref_id: 1536954849738
 ---
 昨天看完了一本不到100页的[《The Power of Concentration》](<http://gigapedia.org/item.id:12766,title:power-of-concentration-1918-06,cat_id:0,cat_page:1.html>)，这本书介绍了“集中精神”的力量和如何锻炼自己容易进入精神集中的状态，然而觉得美中不足也是有点自相矛盾的是，作者却并未能Concentrate在一个如何学会精神集中的方法上，而花了很大的篇幅来介绍为什么我们要学会“集中精神”。不过对于一本写于1918年的书来说，可能作者也是考虑到当时人们的接受程度所以才这样安排篇幅吧。。。而介绍一些集中精神的excercise也是写在了此书的后半部分，总的来说，这本书还是非常值得一看的。
 

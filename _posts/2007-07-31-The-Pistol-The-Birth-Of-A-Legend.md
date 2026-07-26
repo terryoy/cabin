@@ -1,9 +1,9 @@
 ---
- layout: post
- title: The Pistol : The Birth Of A Legend
- date: 2007-07-31 00:13
- categories: wordpress
- tags: 旧博客存档
+layout: post
+title: The Pistol : The Birth Of A Legend
+date: 2007-07-31 00:13
+categories: wordpress
+tags: 旧博客存档
 ---
 看完了这部根据NBA名人堂人物Pete Maravich成长历程改编的电影。虽然从故事情节上来说有点老套，而且对白也有点普通（又或者是我听力没过关漏听了某些语句），不过我还是坚持看下去了，电影还是拍得很励志的，不过可能要部分归功于"Pistol" Pete真实题材的传奇色彩，这个身体瘦削的白人却颠覆了70年代篮坛风格，而这部片是讲述他读大学以前的故事。
 

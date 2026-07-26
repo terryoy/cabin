@@ -1,9 +1,9 @@
 ---
- layout: post
- title: Le Telephone Pleure
- date: 2005-12-12 00:53
- tags: 旧博客存档
- ref_id: 1536954707892
+layout: post
+title: Le Telephone Pleure
+date: 2005-12-12 00:53
+tags: 旧博客存档
+ref_id: 1536954707892
 ---
 今天又找到了几首Claude Francois的歌, 主要是根据Podium里面的配音列表来查找相应的歌曲(最近好像越来越觉得这部电影有意思),
 竟然给我找到了原唱的版本mp3. 比较Francois几首比较著名的歌曲, 包括被猫王翻唱成很红的"My Way"的"Comme

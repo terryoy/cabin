@@ -1,10 +1,10 @@
 ---
- layout: post
- title: 看ben stiller
- date: 2006-05-30 23:47
- categories: [LOFTER, wordpress]
- tags: 旧博客存档
- ref_id: 1536954737910
+layout: post
+title: 看ben stiller
+date: 2006-05-30 23:47
+categories: [LOFTER, wordpress]
+tags: 旧博客存档
+ref_id: 1536954737910
 ---
 最近又看了ben stiller的两部片，拜见岳父大人1&2，其实看这两部片有多少是冲着robert deniro和dustin hoffman+barbara streisand而看的，实力派演技的超级巨星们出现在喜剧片中通常都不会有太差的表现。
 

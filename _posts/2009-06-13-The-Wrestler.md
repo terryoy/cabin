@@ -1,9 +1,9 @@
 ---
- layout: post
- title: The Wrestler
- date: 2009-06-13 22:43
- categories: wordpress
- tags: 旧博客存档
+layout: post
+title: The Wrestler
+date: 2009-06-13 22:43
+categories: wordpress
+tags: 旧博客存档
 ---
 作为一个看摔角长大的小孩，我对这部电影真是太有感觉了。记得以前Starsports播WWF流行的时候，我和我老爸都特别爱看，剧情和人物都劲精彩（当然那是Stone cold, mick foley, the rock等最辉煌的时代），有血有肉充满激情。有人常常质疑说他们是假的，可是当我看见那些流血，那些摔桌子凳子，甚至有直接摔在满地图钉上的，这可都是真刀真枪的，说什么都不信他们是假。
 

@@ -1,10 +1,10 @@
 ---
- layout: post
- title: Little Miss Sunshine
- date: 2007-05-20 00:35
- categories: [LOFTER, wordpress]
- tags: 旧博客存档
- ref_id: 1536954872616
+layout: post
+title: Little Miss Sunshine
+date: 2007-05-20 00:35
+categories: [LOFTER, wordpress]
+tags: 旧博客存档
+ref_id: 1536954872616
 ---
 这部是06年的电影，演员和导演阵容都不怎么出名，但是拍出来却成为了比较受欢迎的一部家庭轻喜剧。我觉得这部片有很值得让人思考的地方，跟时下流行的玩深沉电影比起来，它的故事要来得更有趣更有意义。
 

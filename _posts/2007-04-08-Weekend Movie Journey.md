@@ -1,10 +1,10 @@
 ---
- layout: post
- title: Weekend Movie Journey
- date: 2007-04-08 23:45
- tags: Uncategorized
- ref_id: 1536955198635
- author: teryoy
+layout: post
+title: Weekend Movie Journey
+date: 2007-04-08 23:45
+tags: Uncategorized
+ref_id: 1536955198635
+author: teryoy
 ---
 渐渐已经把回江门度过的周末当成了是周末电影度假两日游了，因为广州铁通和视讯宽带的电影资源量相比实在太远，所以现在越来越觉得回家应该好好地抓紧机会把好看的电影都看了（当然回去还有另一个目的。。。。。。就是抓紧时间把该睡的觉也睡了。。。）。于是这个周末回去，又完成了三部电影，本来还可以多一部的，不过因为要过姨丈家吃晚饭而牺牲了一个多小时。。。小结一下看了的三部电影。
 

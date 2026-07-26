@@ -1,10 +1,10 @@
 ---
- layout: post
- title: The Un"4"gettable King!
- date: 2009-02-08 12:25
- categories: [LOFTER, wordpress]
- tags: 旧博客存档
- ref_id: 1536955004202
+layout: post
+title: The Un"4"gettable King!
+date: 2009-02-08 12:25
+categories: [LOFTER, wordpress]
+tags: 旧博客存档
+ref_id: 1536955004202
 ---
 "In the 5 years and 377 games that he played in the Kings uniform. He averaged 23.5 points, 10.5 rebounds, nearly 5 assists. He lead this club to 2 back-to-back pacific division championships, made the playoffs every year. 4 times he was in the all-star where representing a Sacramento King. He was all-NBA first team in the 2000-2001 season. 
 

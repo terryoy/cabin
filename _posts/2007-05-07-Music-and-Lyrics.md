@@ -1,10 +1,10 @@
 ---
- layout: post
- title: Music and Lyrics
- date: 2007-05-07 10:19
- categories: [LOFTER, wordpress]
- tags: 旧博客存档
- ref_id: 1536954872514
+layout: post
+title: Music and Lyrics
+date: 2007-05-07 10:19
+categories: [LOFTER, wordpress]
+tags: 旧博客存档
+ref_id: 1536954872514
 ---
 ![](http://files.myopera.com/terryoy/msn/music and lyrics.jpg)
 

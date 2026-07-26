@@ -1,10 +1,10 @@
 ---
- layout: post
- title: The pursuit of happyness
- date: 2007-04-01 23:45
- categories: [LOFTER, wordpress]
- tags: 旧博客存档
- ref_id: 1536954850444
+layout: post
+title: The pursuit of happyness
+date: 2007-04-01 23:45
+categories: [LOFTER, wordpress]
+tags: 旧博客存档
+ref_id: 1536954850444
 ---
 虽然我也不知道为什么happyness不是应该写成happiness, 不过这部电影却的确是一部好电影.
 

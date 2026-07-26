@@ -1,9 +1,9 @@
 ---
- layout: post
- title: PhotoReading The Whole Mind System
- date: 2007-02-21 23:24
- tags: 旧博客存档
- ref_id: 1536954848734
+layout: post
+title: PhotoReading The Whole Mind System
+date: 2007-02-21 23:24
+tags: 旧博客存档
+ref_id: 1536954848734
 ---
 ![PhotoReading The Whole Mind System - terryoy -
 terryoy的博客](http://imglf6.nosdn0.126.net/img/d3RhVFdGTXZTU3FWYjUvU0NEZTFhclIyWWVKQnRabUJ6aFhhMWdVWEtZbWlIOEVzMGs3UFh3PT0.jpg)

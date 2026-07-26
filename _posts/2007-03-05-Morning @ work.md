@@ -1,9 +1,9 @@
 ---
- layout: post
- title: Morning @ work
- date: 2007-03-05 12:06
- tags: 旧博客存档
- ref_id: 1536954848766
+layout: post
+title: Morning @ work
+date: 2007-03-05 12:06
+tags: 旧博客存档
+ref_id: 1536954848766
 ---
 似乎也快有十天没更新了，虽然最近没什么知识可以和大家分享，不过还是把近况写写。
 

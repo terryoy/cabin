@@ -1,10 +1,10 @@
 ---
- layout: post
- title: Slow is Fast
- date: 2010-07-14 22:12
- categories: [LOFTER, wordpress]
- tags: 旧博客存档
- ref_id: 1536955079487
+layout: post
+title: Slow is Fast
+date: 2010-07-14 22:12
+categories: [LOFTER, wordpress]
+tags: 旧博客存档
+ref_id: 1536955079487
 ---
 There is a famous quote in Design, "Less is more." It tells people that when things are designed in a simple way, you can enjoy more with them, and things also will last longer. It also tells people not to do things over but just good enough.
 

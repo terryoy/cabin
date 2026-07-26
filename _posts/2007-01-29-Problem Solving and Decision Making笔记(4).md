@@ -1,9 +1,9 @@
 ---
- layout: post
- title: Problem Solving and Decision Making笔记(4)
- date: 2007-01-29 23:10
- tags: 旧博客存档
- ref_id: 1536954825803
+layout: post
+title: Problem Solving and Decision Making笔记(4)
+date: 2007-01-29 23:10
+tags: 旧博客存档
+ref_id: 1536954825803
 ---
 上一part讲过解决问题的第一个步骤, 对问题的处境分析, 让我们知道问题的轻重缓急, 处理问题的先后顺序. 所以现在来讨论第二个步骤:
 

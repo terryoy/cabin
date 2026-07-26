@@ -1,9 +1,9 @@
 ---
- layout: post
- title: Claude Francois
- date: 2005-10-30 22:34
- tags: 旧博客存档
- ref_id: 1536954703259
+layout: post
+title: Claude Francois
+date: 2005-10-30 22:34
+tags: 旧博客存档
+ref_id: 1536954703259
 ---
 前一段时间看了一部叫的法国电影, 第一感觉是里面的音乐还挺不错的, 很有特色, 有点以前那种Rock'nRoll的风格,
 而且觉得主角演绎歌曲的能力也很不错, 拍得跟人家拍mtv的差不多. 不过其中几首歌曲都给我留下了挺深的印象.

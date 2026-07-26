@@ -1,10 +1,10 @@
 ---
- layout: post
- title: Music doesn't lie ...
- date: 2006-09-26 23:38
- categories: [LOFTER, wordpress]
- tags: 旧博客存档
- ref_id: 1536954739054
+layout: post
+title: Music doesn't lie ...
+date: 2006-09-26 23:38
+categories: [LOFTER, wordpress]
+tags: 旧博客存档
+ref_id: 1536954739054
 ---
 "... If there is something to be changed in this world, than it can only happened through music. " \- Jimi Hendrix
 

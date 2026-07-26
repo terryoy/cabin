@@ -1,9 +1,9 @@
 ---
- layout: post
- title: 《The 100-mile Walk：A Father And Son on a Quest to Find the Essence of Leadership》
- date: 2007-04-18 23:11
- tags: 旧博客存档
- refid: 1536954871779
+layout: post
+title: 《The 100-mile Walk：A Father And Son on a Quest to Find the Essence of Leadership》
+date: 2007-04-18 23:11
+tags: 旧博客存档
+refid: 1536954871779
 ---
 
 ![《The 100-mile Walk: A Father And Son on a Quest to Find the Essence of

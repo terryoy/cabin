@@ -1,10 +1,10 @@
 ---
- layout: post
- title: The Full Monty 巨蟒六壮士（上）
- date: 2018-09-15 03:57
- categories: LOFTER
- tags: 旧博客存档
- ref_id: 1536955079953
+layout: post
+title: The Full Monty 巨蟒六壮士（上）
+date: 2018-09-15 03:57
+categories: LOFTER
+tags: 旧博客存档
+ref_id: 1536955079953
 ---
 （由本blog作者terryoy翻译，转载请注明）
 

@@ -1,9 +1,9 @@
 ---
- layout: post
- title: Spring Dinner 2007 GZ
- date: 2007-03-13 18:02
- tags: 旧博客存档
- ref_id: 1536954848869
+layout: post
+title: Spring Dinner 2007 GZ
+date: 2007-03-13 18:02
+tags: 旧博客存档
+ref_id: 1536954848869
 ---
 今年是第一次参加公司的春茗活动，活动从下午两点半开始的Kick Off Meeting，然后到晚上的Spring
 Dinner，一边吃晚饭一边看晚会。公司的大老细们一次过见完了，PCCW Solutions的总经理George

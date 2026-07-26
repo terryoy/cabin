@@ -1,9 +1,9 @@
 ---
- layout: post
- title: Get a job you love
- date: 2006-06-20 00:55
- tags: 旧博客存档
- ref_id: 1536954738173
+layout: post
+title: Get a job you love
+date: 2006-06-20 00:55
+tags: 旧博客存档
+ref_id: 1536954738173
 ---
 最近无聊于是看了一下Donald Trump的blog，发觉他谈论关于选择工作的话题时，总会建议一样：“Get a job you love”。
 
