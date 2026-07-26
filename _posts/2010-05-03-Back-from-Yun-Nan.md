@@ -2,8 +2,9 @@
  layout: post
  title: Back from Yun Nan
  date: 2010-05-03 23:06
- categories: wordpress
+ categories: [LOFTER, wordpress]
  tags: 旧博客存档
+ ref_id: 1536955077562
 ---
 Gotta write something, already missed last week's post.
 

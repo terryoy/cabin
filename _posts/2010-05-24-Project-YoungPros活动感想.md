@@ -2,8 +2,9 @@
  layout: post
  title: Project YoungPros活动感想
  date: 2010-05-24 21:56
- categories: wordpress
+ categories: [LOFTER, wordpress]
  tags: 旧博客存档
+ ref_id: 1536955077718
 ---
 （原文贴在这里：<http://www.douban.com/event/11906728/discussion/24002729/>） 
 

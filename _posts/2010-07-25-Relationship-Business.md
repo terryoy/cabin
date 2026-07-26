@@ -2,8 +2,9 @@
  layout: post
  title: Relationship Business
  date: 2010-07-25 23:10
- categories: wordpress
+ categories: [LOFTER, wordpress]
  tags: 旧博客存档
+ ref_id: 1536955079538
 ---
 前两天听客户方的dpt.head介绍公司的历史文化，印象最深刻的是这个词”Relationship Business“，就好像他们的slogan一样“You And Us”。很佩服这间公司的价值观，作为全球最有名的金融企业之一，却不说自己做的是Money Business，而是强调自己做的是“Relationship Business”。尽管我们是外包的员工，但仍能感受到他们对我们的尊重，能够考虑我们的需要，做好甲乙双方的关系，寻求共赢。
 

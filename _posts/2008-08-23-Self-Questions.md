@@ -2,8 +2,9 @@
  layout: post
  title: Self Questions
  date: 2008-08-23 22:21
- categories: wordpress
+ categories: [LOFTER, wordpress]
  tags: 旧博客存档
+ ref_id: 1536954998196
 ---
 Why am I here? (- Your 'Purpose') 
 

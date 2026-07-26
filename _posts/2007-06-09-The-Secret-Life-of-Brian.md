@@ -2,8 +2,9 @@
  layout: post
  title: The "Secret" Life of Brian
  date: 2007-06-09 17:24
- categories: wordpress
+ categories: [LOFTER, wordpress]
  tags: 旧博客存档
+ ref_id: 1536954985530
 ---
 偶然发现了youtube上有关于Monty Python电影<Life Of Brian>的一部Documentary, 兴奋到立即下载来看. 这部纪录片讲述了<Life Of Brian>从一开始怎么灵感闪现到如何开始策划, 到如何历尽困难把电影制作完成, 然后又如何因为宗教题材敏感遭到禁播以及这部片带来的文化冲突所造成的影响. 从中了解到这部Monty Python最巅峰水平的喜剧片(也是我个人认为史上最伟大的喜剧片, 没有之一)制作过程中的很多有趣的花絮, 不过让我感叹一些文化上的冲突是多么让人遗憾.
 

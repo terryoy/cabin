@@ -2,8 +2,9 @@
  layout: post
  title: 又看blackadder
  date: 2005-09-21 01:03
- categories: wordpress
+ categories: [LOFTER, wordpress]
  tags: 旧博客存档
+ ref_id: 1536954697779
 ---
 这次看的是Christmas Carol的blackadder版(Christmas Carol是Dickens的著名小说<圣诞颂>) 
 

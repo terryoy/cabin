@@ -2,8 +2,9 @@
  layout: post
  title: Problem Solving and Decision Making 笔记（1）
  date: 2006-11-16 22:56
- categories: wordpress
+ categories: [LOFTER, wordpress]
  tags: 旧博客存档
+ ref_id: 1536954820323
 ---
 1.何谓问题？
 

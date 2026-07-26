@@ -2,8 +2,9 @@
  layout: post
  title: Bee Movie & Ratatouille
  date: 2008-02-14 22:33
- categories: wordpress
+ categories: [LOFTER, wordpress]
  tags: 旧博客存档
+ ref_id: 1536954991080
 ---
 前段时间连续看了这两部动画片，一部票房冠军，一部好评如潮。Bee Movie是Jerry Seinfeld编剧兼配音的，梦工场出品；Ratatouille则是由Disney Pixar制作。认真看下去的时候，发现两部片竟是如此的相似，有点怀疑是不是都用上了所谓的好莱坞套路。不过，至少两部片看上去都有情有义有声有色，比起很多剧情空洞台词乏味的动画片都要好了。 
 

@@ -2,8 +2,9 @@
  layout: post
  title: Spring Dinner 2007 GZ
  date: 2007-03-13 18:02
- categories: wordpress
+ categories: [LOFTER, wordpress]
  tags: 旧博客存档
+ ref_id: 1536954848869
 ---
 今年是第一次参加公司的春茗活动，活动从下午两点半开始的Kick Off Meeting，然后到晚上的Spring Dinner，一边吃晚饭一边看晚会。公司的大老细们一次过见完了，PCCW Solutions的总经理George Fok，还有中国大陆的经理啊，sales的经理啊，财务的经理啊，我们这边办公司两个部门的经理啊，培训部的“校长”啊，。。。等等。下午的Meeting给了大家很正面的信息：2006年我们干得很好。。。2007年我们的目标更宽广。。。有得分红（这个好重要啊～），大老细们的讲话让我又一次感受到这间公司里面的很Open的气氛。
 

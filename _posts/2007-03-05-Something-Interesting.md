@@ -2,8 +2,9 @@
  layout: post
  title: Something Interesting
  date: 2007-03-05 16:59
- categories: wordpress
+ categories: [LOFTER, wordpress]
  tags: 旧博客存档
+ ref_id: 1536954848818
 ---
 今天看书看到一段引用
 

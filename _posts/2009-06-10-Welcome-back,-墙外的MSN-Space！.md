@@ -2,8 +2,9 @@
  layout: post
  title: Welcome back, 墙外的MSN Space！
  date: 2009-06-10 23:33
- categories: wordpress
+ categories: [LOFTER, wordpress]
  tags: 旧博客存档
+ ref_id: 1536955075152
 ---
 上周末是一个特别的日子，由于这个日子如此特别，全国上下用很特别的方式来庆祝。比如说拒绝链接国外博客网站，比如说很有意义的讲座要延期。我们常常乐此不疲地谴责日本gov不肯面对历史，我们的gov又何时面对历史了？倒不是说要反对建设和谐社会，总之下次要说什么二战的东西时，我可不跟你们傻乐了。做人应该以身作则，以德服人。
 

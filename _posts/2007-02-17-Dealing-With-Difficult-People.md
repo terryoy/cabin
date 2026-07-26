@@ -2,8 +2,9 @@
  layout: post
  title: Dealing With Difficult People
  date: 2007-02-17 23:40
- categories: wordpress
+ categories: [LOFTER, wordpress]
  tags: 旧博客存档
+ ref_id: 1536954844975
 ---
 ![](http://img82.imageshack.us/img82/3889/imagedbuh0.jpg)
 

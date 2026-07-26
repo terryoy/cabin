@@ -2,8 +2,9 @@
  layout: post
  title: Speed Reading
  date: 2007-02-11 00:53
- categories: wordpress
+ categories: [LOFTER, wordpress]
  tags: 旧博客存档
+ ref_id: 1536954839265
 ---
 ![](http://thumbq.com/store/32881-cs.jpg)
 
