@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Good Morning，Vietnam！早安越南
-date: 2007-09-11 17:03
+date: 2007-09-11 17:03:00
 categories: wordpress
 tags: 旧博客存档
 ---

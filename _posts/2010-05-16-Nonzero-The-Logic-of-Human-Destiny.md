@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nonzero: The Logic of Human Destiny
-date: 2010-05-16 23:36
+date: 2010-05-16 23:36:00
 categories: [LOFTER, wordpress]
 tags: 旧博客存档
 ref_id: 1536955077666

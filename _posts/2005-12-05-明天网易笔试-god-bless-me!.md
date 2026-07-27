@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 明天网易笔试 god bless me!
-date: 2005-12-05 23:33
+date: 2005-12-05 23:33:00
 categories: [LOFTER, wordpress]
 tags: 旧博客存档
 ref_id: 1536954707530

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Music doesn't lie ...
-date: 2006-09-26 23:38
+date: 2006-09-26 23:38:00
 categories: [LOFTER, wordpress]
 tags: 旧博客存档
 ref_id: 1536954739054

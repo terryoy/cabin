@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The "Secret" Life of Brian
-date: 2007-06-09 17:24
+date: 2007-06-09 17:24:00
 categories: [LOFTER, wordpress]
 tags: 旧博客存档
 ref_id: 1536954985530

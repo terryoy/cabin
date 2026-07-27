@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Relationship Business
-date: 2010-07-25 23:10
+date: 2010-07-25 23:10:00
 categories: [LOFTER, wordpress]
 tags: 旧博客存档
 ref_id: 1536955079538

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Be a comedian in Life Theatre
-date: 2007-09-09 15:07
+date: 2007-09-09 15:07:00
 categories: [LOFTER, wordpress]
 tags: 旧博客存档
 ref_id: 1536954987365

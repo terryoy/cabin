@@ -1,7 +1,7 @@
 ---
 layout: post
 title: And so it is...
-date: 2009-10-01 00:26
+date: 2009-10-01 00:26:00
 categories: [LOFTER, wordpress]
 tags: 旧博客存档
 ref_id: 1536955075779

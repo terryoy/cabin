@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Morning @ work
-date: 2007-03-05 12:06
+date: 2007-03-05 12:06:00
 categories: [LOFTER, wordpress]
 tags: 旧博客存档
 ref_id: 1536954848766

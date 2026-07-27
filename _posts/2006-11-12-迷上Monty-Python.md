@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 迷上Monty Python
-date: 2006-11-12 11:09
+date: 2006-11-12 11:09:00
 categories: [LOFTER, wordpress]
 tags: 旧博客存档
 ref_id: 1536954814459

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Wake up in the morning
-date: 2007-05-30 09:58
+date: 2007-05-30 09:58:00
 categories: [LOFTER, wordpress]
 tags: 旧博客存档
 ref_id: 1536954985497

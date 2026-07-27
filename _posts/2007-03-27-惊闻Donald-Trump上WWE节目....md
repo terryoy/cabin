@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 惊闻Donald Trump上WWE节目...
-date: 2007-03-27 22:58
+date: 2007-03-27 22:58:00
 categories: [LOFTER, wordpress]
 tags: 旧博客存档
 ref_id: 1536954850345

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 刚刚被admin叫去讨论了一下工作的review
-date: 2007-03-28 17:36
+date: 2007-03-28 17:36:00
 categories: [LOFTER, wordpress]
 tags: 旧博客存档
 ref_id: 1536954850394

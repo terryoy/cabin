@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 隆重向大家推介 -- Blackmore's Night
-date: 2006-03-14 14:46
+date: 2006-03-14 14:46:00
 categories: [LOFTER, wordpress]
 tags: 旧博客存档
 ref_id: 1536954734172

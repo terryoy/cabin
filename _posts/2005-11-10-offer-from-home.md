@@ -1,7 +1,7 @@
 ---
 layout: post
 title: offer from home
-date: 2005-11-10 00:17
+date: 2005-11-10 00:17:00
 categories: [LOFTER, wordpress]
 tags: 旧博客存档
 ref_id: 1536954703766

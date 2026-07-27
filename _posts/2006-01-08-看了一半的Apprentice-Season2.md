@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 看了一半的Apprentice Season2
-date: 2006-01-08 00:23
+date: 2006-01-08 00:23:00
 categories: [LOFTER, wordpress]
 tags: 旧博客存档
 ref_id: 1536954709238

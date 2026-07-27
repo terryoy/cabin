@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Oh yeah~又听Sam Hui!
-date: 2005-09-26 00:53
+date: 2005-09-26 00:53:00
 categories: [LOFTER, wordpress]
 tags: 旧博客存档
 ref_id: 1536954698081

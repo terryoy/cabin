@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Welcome back, 墙外的MSN Space！
-date: 2009-06-10 23:33
+date: 2009-06-10 23:33:00
 categories: [LOFTER, wordpress]
 tags: 旧博客存档
 ref_id: 1536955075152

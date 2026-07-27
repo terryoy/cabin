@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 致Graham Chapman的悼词(翻译)
-date: 2018-09-15 03:57
+date: 2018-09-15 03:57:00
 categories: LOFTER
 tags: 旧博客存档
 ref_id: 1536955079898

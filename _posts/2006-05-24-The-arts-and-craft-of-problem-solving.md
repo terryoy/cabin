@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The arts and craft of problem solving
-date: 2006-05-24 22:32
+date: 2006-05-24 22:32:00
 categories: [LOFTER, wordpress]
 tags: 旧博客存档
 ref_id: 1536954737861

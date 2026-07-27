@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 周末看片——《Spamalot》和《The Rocky Horror Picture Show》（上）
-date: 2008-08-18 14:57
+date: 2008-08-18 14:57:00
 categories: [LOFTER, wordpress]
 tags: 旧博客存档
 ref_id: 1536954998043

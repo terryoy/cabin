@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Speed Reading
-date: 2007-02-11 00:53
+date: 2007-02-11 00:53:00
 categories: [LOFTER, wordpress]
 tags: 旧博客存档
 ref_id: 1536954839265

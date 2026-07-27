@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Saturday Night Fever
-date: 2006-08-05 22:53
+date: 2006-08-05 22:53:00
 categories: [LOFTER, wordpress]
 tags: 旧博客存档
 ref_id: 1536954738639

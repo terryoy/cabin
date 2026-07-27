@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Quality is the first, Technical is regardless
-date: 2006-10-14 23:08
+date: 2006-10-14 23:08:00
 categories: [LOFTER, wordpress]
 tags: 旧博客存档
 ref_id: 1536954739257

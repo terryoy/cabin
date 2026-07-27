@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Little Miss Sunshine
-date: 2007-05-20 00:35
+date: 2007-05-20 00:35:00
 categories: [LOFTER, wordpress]
 tags: 旧博客存档
 ref_id: 1536954872616

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The World's Greatest
-date: 2005-11-08 09:52
+date: 2005-11-08 09:52:00
 categories: [LOFTER, wordpress]
 tags: 旧博客存档
 ref_id: 1536954703716

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Is it too late? Never!
-date: 2005-11-05 00:49
+date: 2005-11-05 00:49:00
 categories: [LOFTER, wordpress]
 tags: 旧博客存档
 ref_id: 1536954703510

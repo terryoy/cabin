@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Get a job you love
-date: 2006-06-20 00:55
+date: 2006-06-20 00:55:00
 categories: [LOFTER, wordpress]
 tags: 旧博客存档
 ref_id: 1536954738173

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Every man has a moment like this ...
-date: 2007-03-23 09:30
+date: 2007-03-23 09:30:00
 categories: [LOFTER, wordpress]
 tags: 旧博客存档
 ref_id: 1536954849781

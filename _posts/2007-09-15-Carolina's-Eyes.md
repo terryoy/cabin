@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Carolina's Eyes
-date: 2007-09-15 08:03
+date: 2007-09-15 08:03:00
 categories: [LOFTER, wordpress]
 tags: 旧博客存档
 ref_id: 1536954989019

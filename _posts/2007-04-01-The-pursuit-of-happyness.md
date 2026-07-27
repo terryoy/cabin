@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The pursuit of happyness
-date: 2007-04-01 23:45
+date: 2007-04-01 23:45:00
 categories: [LOFTER, wordpress]
 tags: 旧博客存档
 ref_id: 1536954850444

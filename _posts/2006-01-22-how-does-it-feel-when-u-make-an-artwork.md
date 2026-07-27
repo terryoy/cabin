@@ -1,7 +1,7 @@
 ---
 layout: post
 title: how does it feel when u make an artwork?
-date: 2006-01-22 23:02
+date: 2006-01-22 23:02:00
 categories: [LOFTER, wordpress]
 tags: 旧博客存档
 ref_id: 1536954709548

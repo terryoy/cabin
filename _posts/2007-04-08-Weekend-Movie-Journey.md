@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Weekend Movie Journey
-date: 2007-04-08 23:45
+date: 2007-04-08 23:45:00
 categories: wordpress
 tags: 旧博客存档
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Project YoungPros第二次分享活动感想
-date: 2010-07-04 22:59
+date: 2010-07-04 22:59:00
 categories: [LOFTER, wordpress]
 tags: 旧博客存档
 ref_id: 1536955079433

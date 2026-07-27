@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Problem Solving and Decision Making笔记(3)
-date: 2006-12-10 23:09
+date: 2006-12-10 23:09:00
 categories: [LOFTER, wordpress]
 tags: 旧博客存档
 ref_id: 1536954820595

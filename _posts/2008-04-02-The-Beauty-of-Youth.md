@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Beauty of Youth
-date: 2008-04-02 00:17
+date: 2008-04-02 00:17:00
 categories: [LOFTER, wordpress]
 tags: 旧博客存档
 ref_id: 1536954995820

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Slow is Fast
-date: 2010-07-14 22:12
+date: 2010-07-14 22:12:00
 categories: [LOFTER, wordpress]
 tags: 旧博客存档
 ref_id: 1536955079487

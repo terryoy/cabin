@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hello world!
-date: 2010-09-29 13:06
+date: 2010-09-29 13:06:00
 categories: wordpress
 tags: 旧博客存档
 ---

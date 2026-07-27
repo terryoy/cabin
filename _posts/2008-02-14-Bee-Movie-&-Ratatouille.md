@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bee Movie & Ratatouille
-date: 2008-02-14 22:33
+date: 2008-02-14 22:33:00
 categories: [LOFTER, wordpress]
 tags: 旧博客存档
 ref_id: 1536954991080

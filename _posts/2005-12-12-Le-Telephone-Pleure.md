@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Le Telephone Pleure
-date: 2005-12-12 00:53
+date: 2005-12-12 00:53:00
 categories: [LOFTER, wordpress]
 tags: 旧博客存档
 ref_id: 1536954707892

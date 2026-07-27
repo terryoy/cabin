@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Wrestler
-date: 2009-06-13 22:43
+date: 2009-06-13 22:43:00
 categories: wordpress
 tags: 旧博客存档
 ---

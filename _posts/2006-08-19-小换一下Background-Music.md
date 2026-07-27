@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 小换一下Background Music
-date: 2006-08-19 23:13
+date: 2006-08-19 23:13:00
 categories: [LOFTER, wordpress]
 tags: 旧博客存档
 ref_id: 1536954738790

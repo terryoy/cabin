@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Fisher King
-date: 2008-03-13 00:22
+date: 2008-03-13 00:22:00
 categories: [LOFTER, wordpress]
 tags: 旧博客存档
 ref_id: 1536954995662

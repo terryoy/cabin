@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Claude Francois
-date: 2005-10-30 22:34
+date: 2005-10-30 22:34:00
 categories: [LOFTER, wordpress]
 tags: 旧博客存档
 ref_id: 1536954703259

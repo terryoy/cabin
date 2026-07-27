@@ -1,7 +1,7 @@
 ---
 layout: post
 title: There is no stupid question
-date: 2006-07-10 22:59
+date: 2006-07-10 22:59:00
 categories: [LOFTER, wordpress]
 tags: 旧博客存档
 ref_id: 1536954738380

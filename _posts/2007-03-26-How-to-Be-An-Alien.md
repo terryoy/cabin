@@ -1,7 +1,7 @@
 ---
 layout: post
 title: <How to Be An Alien>
-date: 2007-03-26 14:51
+date: 2007-03-26 14:51:00
 categories: [LOFTER, wordpress]
 tags: 旧博客存档
 ref_id: 1536954850302

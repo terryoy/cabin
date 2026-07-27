@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spring Dinner 2007 GZ
-date: 2007-03-13 18:02
+date: 2007-03-13 18:02:00
 categories: [LOFTER, wordpress]
 tags: 旧博客存档
 ref_id: 1536954848869

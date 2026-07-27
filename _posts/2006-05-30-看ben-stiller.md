@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 看ben stiller
-date: 2006-05-30 23:47
+date: 2006-05-30 23:47:00
 categories: [LOFTER, wordpress]
 tags: 旧博客存档
 ref_id: 1536954737910

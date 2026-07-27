@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sports & Not So Fun For Coordinators Day 2006
-date: 2006-10-31 11:47
+date: 2006-10-31 11:47:00
 categories: [LOFTER, wordpress]
 tags: 旧博客存档
 ref_id: 1536954739361

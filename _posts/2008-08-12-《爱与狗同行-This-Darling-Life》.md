@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 《爱与狗同行 This Darling Life》
-date: 2008-08-12 22:30
+date: 2008-08-12 22:30:00
 categories: [LOFTER, wordpress]
 tags: 旧博客存档
 ref_id: 1536954997994

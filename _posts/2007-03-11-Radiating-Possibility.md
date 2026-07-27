@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Radiating Possibility
-date: 2007-03-11 16:50
+date: 2007-03-11 16:50:00
 categories: wordpress
 tags: 旧博客存档
 ---

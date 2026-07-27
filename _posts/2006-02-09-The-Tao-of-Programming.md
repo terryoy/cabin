@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Tao of Programming
-date: 2006-02-09 22:25
+date: 2006-02-09 22:25:00
 categories: [LOFTER, wordpress]
 tags: 旧博客存档
 ref_id: 1536954709804

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 悲情英雄Vince Carter
-date: 2007-04-23 16:36
+date: 2007-04-23 16:36:00
 categories: [LOFTER, wordpress]
 tags: 旧博客存档
 ref_id: 1536954871853

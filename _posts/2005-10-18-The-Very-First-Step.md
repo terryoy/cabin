@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Very First Step
-date: 2005-10-18 00:27
+date: 2005-10-18 00:27:00
 categories: [LOFTER, wordpress]
 tags: 旧博客存档
 ref_id: 1536954698705

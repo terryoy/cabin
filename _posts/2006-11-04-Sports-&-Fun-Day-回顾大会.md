@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sports & Fun Day 回顾大会
-date: 2006-11-04 23:20
+date: 2006-11-04 23:20:00
 categories: [LOFTER, wordpress]
 tags: 旧博客存档
 ref_id: 1536954739414

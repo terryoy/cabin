@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Un"4"gettable King!
-date: 2009-02-08 12:25
+date: 2009-02-08 12:25:00
 tags: 旧博客存档
 ref_id: 1536955004202
 ---

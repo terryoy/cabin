@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Father and Son
-date: 2005-12-04 01:16
+date: 2005-12-04 01:16:00
 categories: [LOFTER, wordpress]
 tags: 旧博客存档
 ref_id: 1536954707428

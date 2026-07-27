@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Power of Concentration
-date: 2007-03-20 11:01
+date: 2007-03-20 11:01:00
 categories: [LOFTER, wordpress]
 tags: 旧博客存档
 ref_id: 1536954849738

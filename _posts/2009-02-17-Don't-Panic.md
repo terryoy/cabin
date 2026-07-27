@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Don't Panic
-date: 2009-02-17 22:46
+date: 2009-02-17 22:46:00
 categories: [LOFTER, wordpress]
 tags: 旧博客存档
 ref_id: 1536955004306

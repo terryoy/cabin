@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Aristocrats
-date: 2007-08-13 22:43
+date: 2007-08-13 22:43:00
 categories: wordpress
 tags: 旧博客存档
 ---

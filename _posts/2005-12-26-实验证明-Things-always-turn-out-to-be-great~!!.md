@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 实验证明 - Things always turn out to be great~!!
-date: 2005-12-26 01:09
+date: 2005-12-26 01:09:00
 categories: wordpress
 tags: 旧博客存档
 ---
