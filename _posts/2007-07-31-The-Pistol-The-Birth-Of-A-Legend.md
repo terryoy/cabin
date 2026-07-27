@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Pistol : The Birth Of A Legend
+title: "The Pistol : The Birth Of A Legend"
 date: 2007-07-31 00:13:00
 categories: wordpress
 tags: 旧博客存档
