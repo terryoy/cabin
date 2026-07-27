@@ -6,16 +6,19 @@ permalink: /tags/
 ---
 
 {%- assign date_format = site.minima.date_format | default: "%Y-%m-%d" -%}
-{%- assign sorted_tags = site.tags | sort_natural -%}
 {%- assign total_posts = site.posts | size -%}
 
-{%- if sorted_tags.size > 0 -%}
-<p>共 {{ sorted_tags | size }} 个标签，{{ total_posts }} 篇文章。</p>
+{%- if site.tags.size > 0 -%}
+<p>共 {{ site.tags | size }} 个标签，{{ total_posts }} 篇文章。</p>
+
+{%- capture tag_names_raw -%}
+{%- for tag in site.tags -%}{{ tag[0] }},{%- endfor -%}
+{%- endcapture -%}
+{%- assign tag_names = tag_names_raw | split: "," | sort_natural -%}
 
 <ul class="tag-cloud">
-{%- for tag in sorted_tags -%}
-{%- assign tag_name = tag[0] -%}
-{%- assign tag_posts = tag[1] -%}
+{%- for tag_name in tag_names -%}
+{%- assign tag_posts = site.tags[tag_name] -%}
 <li>
 <a href="#{{ tag_name | slugify }}">#{{ tag_name }}</a>
 <span class="tag-count">({{ tag_posts | size }})</span>
@@ -23,9 +26,8 @@ permalink: /tags/
 {%- endfor -%}
 </ul>
 
-{%- for tag in sorted_tags -%}
-{%- assign tag_name = tag[0] -%}
-{%- assign tag_posts = tag[1] | sort: 'date' | reverse -%}
+{%- for tag_name in tag_names -%}
+{%- assign tag_posts = site.tags[tag_name] | sort: 'date' | reverse -%}
 <section class="tag-section" id="{{ tag_name | slugify }}">
 <h2>#{{ tag_name }}</h2>
 <ul class="tag-posts">
