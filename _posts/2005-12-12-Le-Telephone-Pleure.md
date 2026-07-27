@@ -2,8 +2,7 @@
 layout: post
 title: Le Telephone Pleure
 date: 2005-12-12 00:53:00
-categories: [LOFTER, wordpress]
-tags: 旧博客存档
+tags: [旧博客存档, LOFTER, wordpress]
 ref_id: 1536954707892
 ---
 今天又找到了几首Claude Francois的歌, 主要是根据Podium里面的配音列表来查找相应的歌曲(最近好像越来越觉得这部电影有意思), 竟然给我找到了原唱的版本mp3. 比较Francois几首比较著名的歌曲, 包括被猫王翻唱成很红的"My Way"的"Comme D'Habitude(一切如常)", 在Podium里面作为主题曲的 "Alexandrie Alexandra", 还有就是这首和童声合唱的"Le Telephone Pleure(伤心的电话)", 我还是觉得这首<伤心的电话>比其他两首更佳, 据说在法国人对Francois所唱的歌钟爱排名里面, 也是这首歌排第一的.

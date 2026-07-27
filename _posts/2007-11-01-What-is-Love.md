@@ -2,8 +2,7 @@
 layout: post
 title: What is Love?
 date: 2007-11-01 22:39:00
-categories: [LOFTER, wordpress]
-tags: 旧博客存档
+tags: [旧博客存档, LOFTER, wordpress]
 ref_id: 1536954989329
 ---
 \- What is love?

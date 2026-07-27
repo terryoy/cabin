@@ -2,8 +2,7 @@
 layout: post
 title: 隆重向大家推介 -- Blackmore's Night
 date: 2006-03-14 14:46:00
-categories: [LOFTER, wordpress]
-tags: 旧博客存档
+tags: [旧博客存档, LOFTER, wordpress]
 ref_id: 1536954734172
 ---
 又是一次偶然机会, 遇上了一个自己比较喜欢的歌唱组合.

@@ -2,8 +2,7 @@
 layout: post
 title: 迷上Monty Python
 date: 2006-11-12 11:09:00
-categories: [LOFTER, wordpress]
-tags: 旧博客存档
+tags: [旧博客存档, LOFTER, wordpress]
 ref_id: 1536954814459
 ---
 ![](http://www.bbc.co.uk/comedy/guide/images/400/flyingcircus_1.jpg)

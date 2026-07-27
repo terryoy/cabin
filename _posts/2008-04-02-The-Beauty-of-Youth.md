@@ -2,8 +2,7 @@
 layout: post
 title: The Beauty of Youth
 date: 2008-04-02 00:17:00
-categories: [LOFTER, wordpress]
-tags: 旧博客存档
+tags: [旧博客存档, LOFTER, wordpress]
 ref_id: 1536954995820
 ---
 青春，每一个人都想留住，但是却没有人能留得住。

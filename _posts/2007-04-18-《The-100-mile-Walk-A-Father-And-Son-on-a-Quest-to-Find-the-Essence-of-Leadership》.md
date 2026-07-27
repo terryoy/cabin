@@ -2,8 +2,7 @@
 layout: post
 title: "《The 100-mile Walk: A Father And Son on a Quest to Find the Essence of Leadership》"
 date: 2007-04-18 23:11:00
-categories: [LOFTER, wordpress]
-tags: 旧博客存档
+tags: [旧博客存档, LOFTER, wordpress]
 ref_id: 1536954871779
 ---
 ![](http://images.amazon.com/images/P/081440863X.01._SCLZZZZZZZ_.jpg)

@@ -2,8 +2,7 @@
 layout: post
 title: The Very First Step
 date: 2005-10-18 00:27:00
-categories: [LOFTER, wordpress]
-tags: 旧博客存档
+tags: [旧博客存档, LOFTER, wordpress]
 ref_id: 1536954698705
 ---
 今天终于迈出了找工的第一步啦！上午在把实验赶完，下午才匆匆地完成好自己份简历，晚上就要去参加北电研发的中大宣讲会。结果在宣讲会结束之后就投出了自己的第一份简历。

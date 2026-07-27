@@ -2,8 +2,7 @@
 layout: post
 title: PhotoReading The Whole Mind System
 date: 2007-02-21 23:24:00
-categories: [LOFTER, wordpress]
-tags: 旧博客存档
+tags: [旧博客存档, LOFTER, wordpress]
 ref_id: 1536954848734
 ---
 ![](http://img178.imageshack.us/img178/7223/092548053301bo220420320tx0.jpg)

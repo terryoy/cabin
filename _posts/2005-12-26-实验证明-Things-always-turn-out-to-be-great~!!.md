@@ -2,8 +2,7 @@
 layout: post
 title: 实验证明 - Things always turn out to be great~!!
 date: 2005-12-26 01:09:00
-categories: wordpress
-tags: 旧博客存档
+tags: [旧博客存档, wordpress]
 ---
 原本昨天还在冥思苦想今天搞什么节目好, 一到圣诞就一个二个都消失了, 想找个人去玩玩都无, 本来差点就想叫kassarar回来锄大地泡时间算了, 心情有点沮丧. 不过后来终于在篮球版面找到些人今天一早去打球, 于是今天又出奇地早起床然后去打球. 
 

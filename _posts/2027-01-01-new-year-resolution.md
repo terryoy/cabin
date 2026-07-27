@@ -3,7 +3,6 @@ layout: "post"
 title: "2026年终总结暨2027年新年计划"
 date: 2026-05-21 21:51:24 +0800
 tags: ["年终总结"]
-categories: []
 permalink: "/new-year-resolution-2027/"
 published: false
 ---

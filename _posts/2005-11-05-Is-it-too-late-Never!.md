@@ -2,8 +2,7 @@
 layout: post
 title: Is it too late? Never!
 date: 2005-11-05 00:49:00
-categories: [LOFTER, wordpress]
-tags: 旧博客存档
+tags: [旧博客存档, LOFTER, wordpress]
 ref_id: 1536954703510
 ---
 今天在gamedev.net的forum上逛, 看了一下一些初学者发的帖. 有人问, 他刚在college毕业了, 非常喜欢游戏和游戏编程, 但是以他在high school学的数学知识, 现在才想去学个软件工程和计算机科学的degree, 是不是太晚呢? 特别是想以做游戏为生的话, 这个会不会起步太晚了呢?

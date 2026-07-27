@@ -2,8 +2,7 @@
 layout: post
 title: 明天网易笔试 god bless me!
 date: 2005-12-05 23:33:00
-categories: [LOFTER, wordpress]
-tags: 旧博客存档
+tags: [旧博客存档, LOFTER, wordpress]
 ref_id: 1536954707530
 ---
 自从上星期网易那几个师兄过来我们院讲座以后，我就将网易游戏部的offer上升为我的第一选择了。今天室友还问我如果北电和网易都发offer给我，我会怎么选择，我立刻就非常坚决地说：“网易！”

@@ -2,8 +2,7 @@
 layout: post
 title: Father and Son
 date: 2005-12-04 01:16:00
-categories: [LOFTER, wordpress]
-tags: 旧博客存档
+tags: [旧博客存档, LOFTER, wordpress]
 ref_id: 1536954707428
 ---
 今天坐公车回来的时候，当车在某一站停下来，看见有两父子匆匆忙忙地赶了上车。看他们两个打扮很有趣，两个都是背着背包拿着行李箱，一大一小，在车上有讲有笑，就好像是一齐出游的两父子搭档，使我又联想起了电影里面比较常见的情节，儿子永远跟着老爸的style，就像Forest Gump里面的小Forest和大Forest一样。

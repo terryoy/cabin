@@ -2,8 +2,7 @@
 layout: post
 title: 6th Project Young Pros Event感想
 date: 2018-09-15 03:58:00
-categories: LOFTER
-tags: 旧博客存档
+tags: [旧博客存档, LOFTER]
 ref_id: 1536955080057
 ---
 这次是作为组织者参加，肩负起让活动愉快进行的重任。于是其实大部分时间都是在忙琐碎的事，反而不像前几次参加那样专心听，但活动总算圆满结束，参加者都给了积极的回应。我们也发现了许多原来可以改进的地方。

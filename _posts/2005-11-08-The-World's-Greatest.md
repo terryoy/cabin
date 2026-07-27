@@ -2,8 +2,7 @@
 layout: post
 title: The World's Greatest
 date: 2005-11-08 09:52:00
-categories: [LOFTER, wordpress]
-tags: 旧博客存档
+tags: [旧博客存档, LOFTER, wordpress]
 ref_id: 1536954703716
 ---
 终于找到这首歌的link,"The World's Greatest"! 刚开始创建这个space的时候就想用这首歌做bgm, 觉得这首歌很合适自己, 只可惜当时没找到, 才用了别的歌代替.

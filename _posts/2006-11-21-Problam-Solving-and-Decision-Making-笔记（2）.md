@@ -2,8 +2,7 @@
 layout: post
 title: Problam Solving and Decision Making 笔记（2）
 date: 2006-11-21 22:17:00
-categories: [LOFTER, wordpress]
-tags: 旧博客存档
+tags: [旧博客存档, LOFTER, wordpress]
 ref_id: 1536954820385
 ---
 1.两个作为热身的经典问题：

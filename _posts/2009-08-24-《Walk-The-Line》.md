@@ -2,8 +2,7 @@
 layout: post
 title: 《Walk The Line》
 date: 2009-08-24 12:02:00
-categories: [LOFTER, wordpress]
-tags: 旧博客存档
+tags: [旧博客存档, LOFTER, wordpress]
 ref_id: 1536955075464
 ---
 (发于[Film@argo](<mailto:Film@argo>)) 

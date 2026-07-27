@@ -2,8 +2,7 @@
 layout: post
 title: Good Morning，Vietnam！早安越南
 date: 2007-09-11 17:03:00
-categories: wordpress
-tags: 旧博客存档
+tags: [旧博客存档, wordpress]
 ---
 我并不十分喜欢看战争题材，太残酷太沉重了。战争里面有太多人性扭曲的东西了，  
 政治，宗教，文化，种族，为谁而战？为什么而战？谁是敌？谁是友？谁赢谁输？  

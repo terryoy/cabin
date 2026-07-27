@@ -2,8 +2,7 @@
 layout: post
 title: Foundation
 date: 2010-05-29 23:10:00
-categories: [LOFTER, wordpress]
-tags: 旧博客存档
+tags: [旧博客存档, LOFTER, wordpress]
 ref_id: 1536955077769
 ---
 A few pieces of news this week.

@@ -3,7 +3,6 @@ layout: "post"
 title: "2025年终总结暨2026年新年计划"
 date: 2026-01-14 00:00:00
 tags: ["年终总结"]
-categories: []
 permalink: "/new-year-resolution-2026/"
 published: false
 ---
