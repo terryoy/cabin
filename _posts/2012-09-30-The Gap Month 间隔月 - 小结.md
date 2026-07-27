@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Gap Month 间隔月 - 小结
-date: 2018-09-15 03:58:00
+date: 2012-09-30 03:58:00
 tags: 旧博客存档
 ref_id: 1536955125906
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 6th Project Young Pros Event感想
-date: 2018-09-15 03:58:00
+date: 2010-10-31 03:58:00
 tags: [旧博客存档, LOFTER]
 ref_id: 1536955080057
 ---
